@@ -1,0 +1,19 @@
+{
+  "sensor_id": 30002,
+  "city": "Delhi",
+  "parameter": "o3",
+  "results": [
+    {
+      "value": 0.021,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 3, "name": "o3", "units": "ppm", "displayName": "O3"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-01T00:00:00Z", "local": "2026-09-01T05:30:00+05:30"},
+        "datetimeTo": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T05:30:00+05:30"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    }
+  ]
+}

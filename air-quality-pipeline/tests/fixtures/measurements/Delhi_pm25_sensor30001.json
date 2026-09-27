@@ -1,0 +1,43 @@
+{
+  "sensor_id": 30001,
+  "city": "Delhi",
+  "parameter": "pm25",
+  "results": [
+    {
+      "value": 142.6,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-01T00:00:00Z", "local": "2026-09-01T05:30:00+05:30"},
+        "datetimeTo": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T05:30:00+05:30"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 22, "percentComplete": 91.7}
+    },
+    {
+      "value": -9999.0,
+      "flagInfo": {"hasFlags": true},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T05:30:00+05:30"},
+        "datetimeTo": {"utc": "2026-09-03T00:00:00Z", "local": "2026-09-03T05:30:00+05:30"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    },
+    {
+      "value": 138.9,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-03T00:00:00Z", "local": "2026-09-03T05:30:00+05:30"},
+        "datetimeTo": {"utc": "2026-09-04T00:00:00Z", "local": "2026-09-04T05:30:00+05:30"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    }
+  ]
+}

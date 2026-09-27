@@ -1,0 +1,55 @@
+{
+  "sensor_id": 20001,
+  "city": "London",
+  "parameter": "pm25",
+  "results": [
+    {
+      "value": 9.4,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-01T00:00:00Z", "local": "2026-09-01T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    },
+    {
+      "value": 9.4,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-01T00:00:00Z", "local": "2026-09-01T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    },
+    {
+      "value": null,
+      "flagInfo": {"hasFlags": true},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-03T00:00:00Z", "local": "2026-09-03T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 3, "percentComplete": 12.5}
+    },
+    {
+      "value": 11.2,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-03T00:00:00Z", "local": "2026-09-03T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-04T00:00:00Z", "local": "2026-09-04T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    }
+  ]
+}

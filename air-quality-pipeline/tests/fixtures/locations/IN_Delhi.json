@@ -1,0 +1,13 @@
+{
+  "query": {"coordinates": "28.6139,77.209", "radius": 15000, "limit": 50},
+  "results": [
+    {
+      "id": 2001,
+      "name": "Delhi - Anand Vihar, DPCC",
+      "sensors": [
+        {"id": 30001, "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"}},
+        {"id": 30002, "parameter": {"id": 3, "name": "o3", "units": "ppm", "displayName": "O3"}}
+      ]
+    }
+  ]
+}

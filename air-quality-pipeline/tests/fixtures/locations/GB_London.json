@@ -1,0 +1,14 @@
+{
+  "query": {"coordinates": "51.5072,-0.1276", "radius": 10000, "limit": 50},
+  "results": [
+    {
+      "id": 1001,
+      "name": "London Marylebone Road",
+      "sensors": [
+        {"id": 20001, "parameter": {"id": 2, "name": "pm25", "units": "\u00b5g/m\u00b3", "displayName": "PM2.5"}},
+        {"id": 20002, "parameter": {"id": 1, "name": "pm10", "units": "\u00b5g/m\u00b3", "displayName": "PM10"}},
+        {"id": 20003, "parameter": {"id": 5, "name": "no2", "units": "\u00b5g/m\u00b3", "displayName": "NO2"}}
+      ]
+    }
+  ]
+}

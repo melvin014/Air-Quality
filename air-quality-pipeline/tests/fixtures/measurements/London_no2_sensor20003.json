@@ -1,0 +1,31 @@
+{
+  "sensor_id": 20003,
+  "city": "London",
+  "parameter": "no2",
+  "results": [
+    {
+      "value": 28.7,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 5, "name": "no2", "units": "\u00b5g/m\u00b3", "displayName": "NO2"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-01T00:00:00Z", "local": "2026-09-01T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    },
+    {
+      "value": 31.5,
+      "flagInfo": {"hasFlags": false},
+      "parameter": {"id": 5, "name": "no2", "units": "\u00b5g/m\u00b3", "displayName": "NO2"},
+      "period": {
+        "label": "1day",
+        "interval": "1 day",
+        "datetimeFrom": {"utc": "2026-09-02T00:00:00Z", "local": "2026-09-02T01:00:00+01:00"},
+        "datetimeTo": {"utc": "2026-09-03T00:00:00Z", "local": "2026-09-03T01:00:00+01:00"}
+      },
+      "coverage": {"expectedCount": 24, "observedCount": 24, "percentComplete": 100.0}
+    }
+  ]
+}
