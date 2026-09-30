@@ -5,20 +5,23 @@ readings for ten world cities from the [OpenAQ](https://openaq.org) API,
 cleans and lands them in DuckDB, and renders a static HTML report comparing
 cities against the WHO air quality guidelines.
 
+## About me and why I built this
+
+Hi, I'm Melvin, a First Class Computer Science graduate with a strong interest in data engineering, AI and using technology to solve practical problems. I enjoy working with data from the point where it is collected through to the point where it can be trusted and used by someone else. This is what attracted me to data engineering: building the pipelines, transformations and data structures that make reliable analysis possible.
+
+I built this project as an end-to-end data engineering exercise because I wanted to work with a real API and deal with the kinds of problems that occur in real datasets rather than use a clean, pre-prepared dataset. It gave me the opportunity to work with Python, APIs, data ingestion, data cleaning, data modelling, testing and DuckDB while making decisions about how the final data should be structured and validated.
+
+I like breaking ambiguous problems into smaller steps, investigating unfamiliar data, finding reliable ways to transform it and explaining technical decisions clearly. The opportunity to develop further in areas such as SQL, Python, APIs, pipelines, data modelling and cloud technologies, and then apply those skills to real client problems, is exactly the direction I want to take my career.
+
+Outside of technical work, I enjoy learning about new technologies and understanding how they can be applied to real-world problems. I am naturally curious and enjoy figuring out how things work, especially when the answer is not immediately obvious.
+
 ## Purpose
 
-I wanted a project on a topic I actually check in real life (is the air bad
-today, is one city worse than another) rather than a toy dataset. Air
-quality data is also genuinely messy in the way this kind of exercise is
-supposed to surface: patchy global coverage, sensors that occasionally
-report impossible values, pollutants measured in inconsistent units
-depending on the provider, and gaps where a station goes offline for a day.
+A small end-to-end data pipeline that pulls recent outdoor air pollution readings for ten world cities from the [OpenAQ](https://openaq.org) API, cleans and lands them in DuckDB, and renders a static HTML report comparing cities against the WHO air quality guidelines.
 
-**Intended audience:** someone deciding where the air is currently
-breathable — a traveler comparing destinations, someone with asthma or
-allergies checking conditions, or anyone curious how their city stacks up.
-The report is written for that reader: a quick visual comparison against a
-health-based reference point, not a raw data dump.
+I wanted a project on a topic I actually check in real life (is the air bad today, is one city worse than another) rather than a toy dataset. Air quality data is also genuinely messy in the way this kind of exercise is supposed to surface: patchy global coverage, sensors that occasionally report impossible values, pollutants measured in inconsistent units depending on the provider, and gaps where a station goes offline for a day.
+
+**Intended audience:** someone deciding where the air is currently breathable — a traveler comparing destinations, someone with asthma or allergies checking conditions, or anyone curious how their city stacks up. The report is written for that reader: a quick visual comparison against a health-based reference point, not a raw data dump.
 
 ## Data source
 
