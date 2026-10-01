@@ -19,7 +19,7 @@ API_BASE = "https://api.openaq.org/v3"
 # under that with a fixed delay between requests rather than trying to be
 # clever about it.
 MIN_SECONDS_BETWEEN_REQUESTS = 1.1
-MAX_RETRIES = 5
+MAX_RETRIES = 2
 
 # --- Cities of interest --------------------------------------------------
 # (city, country_iso, lat, lon, search_radius_m)

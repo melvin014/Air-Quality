@@ -28,6 +28,7 @@ import time
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
+from datetime import datetime, timezone, timedelta
 
 import requests
 from dotenv import load_dotenv
@@ -155,7 +156,13 @@ def find_location_for_city(name: str, iso: str, lat: float, lon: float, radius_m
 
 def fetch_daily_measurements(sensor_id: int, city: str, parameter: str) -> list[dict]:
     """Pull the last LOOKBACK_DAYS of daily-aggregated measurements for one sensor."""
-    params = {"limit": 100}
+    date_to = datetime.now(timezone.utc).date()
+    date_from = date_to - timedelta(days=config.LOOKBACK_DAYS)
+    params = {
+        "limit": 100,
+        "datetime_from": date_from.isoformat(),
+        "datetime_to": date_to.isoformat(),
+    }
     results = _paginate(f"/sensors/{sensor_id}/measurements/daily", params)
     _save_raw(
         "measurements",
@@ -184,8 +191,12 @@ def run(cities=None) -> None:
                 if param_name not in config.PARAMETERS_OF_INTEREST:
                     continue
                 log.info("  Fetching %s daily measurements (sensor %s)", param_name, sensor["id"])
-                fetch_daily_measurements(sensor["id"], name, param_name)
-                sensors_pulled.append(param_name)
+                try:
+                    fetch_daily_measurements(sensor["id"], name, param_name)
+                    sensors_pulled.append(param_name)
+                except OpenAQError as e:
+                    log.warning("  Skipping sensor %s (%s) after repeated failures: %s",
+                                sensor["id"], param_name, e)
             city_record["parameters_pulled"] = sensors_pulled
 
         manifest["cities"].append(city_record)
