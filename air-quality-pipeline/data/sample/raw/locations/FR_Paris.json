@@ -1,0 +1,3614 @@
+{
+  "query": {
+    "coordinates": "48.8566,2.3522",
+    "radius": 10000,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": 2675,
+      "name": "CACHAN",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 180,
+        "name": "EEA France"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 5582,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.79944696356195,
+        "longitude": 2.330553240508322
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.330553240508322,
+        48.79944696356195,
+        2.330553240508322,
+        48.79944696356195
+      ],
+      "distance": 6551.49669211,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2016-12-05T00:00:00Z",
+        "local": "2016-12-05T01:00:00+01:00"
+      }
+    },
+    {
+      "id": 2681,
+      "name": "Place de l'Op\u00e9ra",
+      "locality": "PARIS 2E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274492,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 5620,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 5588,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8702740002815,
+        "longitude": 2.332500000221789
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.332500000221789,
+        48.8702740002815,
+        2.332500000221789,
+        48.8702740002815
+      ],
+      "distance": 2098.00042467,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4039,
+      "name": "PARIS 18eme",
+      "locality": "PARIS 18E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274992,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9542,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9539,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 9538,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1582598,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.891665999897555,
+        "longitude": 2.346666999987613
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.346666999987613,
+        48.891665999897555,
+        2.346666999987613,
+        48.891665999897555
+      ],
+      "distance": 3920.66061225,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4041,
+      "name": "Bld peripherique Est",
+      "locality": "PARIS 12E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275088,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9643,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9544,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9548,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.83861500018727,
+        "longitude": 2.4127809998590957
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.4127809998590957,
+        48.83861500018727,
+        2.4127809998590957,
+        48.83861500018727
+      ],
+      "distance": 4875.45387838,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4053,
+      "name": "RN2-PANTIN",
+      "locality": "PANTIN",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275047,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9736,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9564,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.90221999982184,
+        "longitude": 2.390832999714743
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.390832999714743,
+        48.90221999982184,
+        2.390832999714743,
+        48.90221999982184
+      ],
+      "distance": 5811.00988727,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-10-29T11:00:00Z",
+        "local": "2025-10-29T12:00:00+01:00"
+      }
+    },
+    {
+      "id": 4060,
+      "name": "PARIS Stade Lenglen",
+      "locality": "PARIS 15E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275502,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9610,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9577,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.830386999745706,
+        "longitude": 2.2698889996653513
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.2698889996653513,
+        48.830386999745706,
+        2.2698889996653513,
+        48.830386999745706
+      ],
+      "distance": 6708.17514611,
+      "datetimeFirst": {
+        "utc": "2017-02-18T08:00:00Z",
+        "local": "2017-02-18T09:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4063,
+      "name": "Auto A1 -Saint-Denis",
+      "locality": "SAINT-DENIS",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9711,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4275149,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9716,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9583,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9588,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.92527799982875,
+        "longitude": 2.356666999916352
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.356666999916352,
+        48.92527799982875,
+        2.356666999916352,
+        48.92527799982875
+      ],
+      "distance": 7644.53871436,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4066,
+      "name": "BOBIGNY",
+      "locality": "BOBIGNY",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275214,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9609,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9590,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9589,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.9025040001429,
+        "longitude": 2.452500000264972
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.452500000264972,
+        48.9025040001429,
+        2.452500000264972,
+        48.9025040001429
+      ],
+      "distance": 8954.45685427,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4067,
+      "name": "Place Victor Basch",
+      "locality": "PARIS 14E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9630,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4274657,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9629,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9593,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.82777799979369,
+        "longitude": 2.327499999808262
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.327499999808262,
+        48.82777799979369,
+        2.327499999808262,
+        48.82777799979369
+      ],
+      "distance": 3682.44985926,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T12:00:00+02:00"
+      }
+    },
+    {
+      "id": 4069,
+      "name": "Av Champs Elysees",
+      "locality": "PARIS 8E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 5079132,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 5078926,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 5078801,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.86888999991671,
+        "longitude": 2.3119439997973035
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3119439997973035,
+        48.86888999991671,
+        2.3119439997973035,
+        48.86888999991671
+      ],
+      "distance": 3254.5727092,
+      "datetimeFirst": {
+        "utc": "2023-05-06T00:00:00Z",
+        "local": "2023-05-06T02:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-07-30T11:00:00Z",
+        "local": "2024-07-30T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4070,
+      "name": "Boulevard Haussmann",
+      "locality": "PARIS 9E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275130,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9680,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9597,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1562368,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.87333300000442,
+        "longitude": 2.3302780002985286
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3302780002985286,
+        48.87333300000442,
+        2.3302780002985286,
+        48.87333300000442
+      ],
+      "distance": 2459.6029199,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4075,
+      "name": "LA DEFENSE",
+      "locality": "PUTEAUX",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274782,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9625,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9608,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 4661655,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8913880002415,
+        "longitude": 2.2405559998759084
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.2405559998759084,
+        48.8913880002415,
+        2.2405559998759084,
+        48.8913880002415
+      ],
+      "distance": 9057.54623726,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4077,
+      "name": "NOGENT-SUR-MARNE",
+      "locality": "NOGENT-SUR-MARNE",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9614,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8405569997725,
+        "longitude": 2.484444000140104
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.484444000140104,
+        48.8405569997725,
+        2.484444000140104,
+        48.8405569997725
+      ],
+      "distance": 9868.43905499,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-28T16:00:00Z",
+        "local": "2026-09-28T18:00:00+02:00"
+      }
+    },
+    {
+      "id": 4084,
+      "name": "VITRY-SUR-SEINE",
+      "locality": "VITRY-SUR-SEINE",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274884,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9863,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 15298,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 9647,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9646,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 9864,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.775898000042204,
+        "longitude": 2.37578800006495
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.37578800006495,
+        48.775898000042204,
+        2.37578800006495,
+        48.775898000042204
+      ],
+      "distance": 9140.22211961,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4086,
+      "name": "AUBERVILLIERS",
+      "locality": "AUBERVILLIERS",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9660,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4275042,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9652,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9651,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.903899999756625,
+        "longitude": 2.384700000047436
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.384700000047436,
+        48.903899999756625,
+        2.384700000047436,
+        48.903899999756625
+      ],
+      "distance": 5775.04693183,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4088,
+      "name": "GENNEVILLIERS",
+      "locality": "GENNEVILLIERS",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274747,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9655,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9662,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9663,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.92971999976044,
+        "longitude": 2.2947220004300926
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.2947220004300926,
+        48.92971999976044,
+        2.2947220004300926,
+        48.92971999976044
+      ],
+      "distance": 9158.90430902,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-07-30T11:00:00Z",
+        "local": "2024-07-30T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4093,
+      "name": "Quai des Celestins",
+      "locality": "PARIS 4E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274737,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9671,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.852779999795274,
+        "longitude": 2.3605559999190917
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3605559999190917,
+        48.852779999795274,
+        2.3605559999190917,
+        48.852779999795274
+      ],
+      "distance": 745.9747905,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4094,
+      "name": "PARIS 12eme",
+      "locality": "PARIS 12E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274987,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9672,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.83722300009815,
+        "longitude": 2.39389999991001
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.39389999991001,
+        48.83722300009815,
+        2.39389999991001,
+        48.83722300009815
+      ],
+      "distance": 3743.08583051,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4096,
+      "name": "FR04135",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 180,
+        "name": "EEA France"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275522,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9686,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8379529715682,
+        "longitude": 2.40805988322215
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.40805988322215,
+        48.8379529715682,
+        2.40805988322215,
+        48.8379529715682
+      ],
+      "distance": 4594.44250704,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-13T19:00:00Z",
+        "local": "2023-04-13T21:00:00+02:00"
+      }
+    },
+    {
+      "id": 4099,
+      "name": "SAINT-DENIS",
+      "locality": "SAINT-DENIS",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274481,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9693,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.93722000025856,
+        "longitude": 2.3616670003298794
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3616670003298794,
+        48.93722000025856,
+        2.3616670003298794,
+        48.93722000025856
+      ],
+      "distance": 8992.39948262,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4111,
+      "name": "PARIS 7eme",
+      "locality": "PARIS 7E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274358,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9729,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.85719999977259,
+        "longitude": 2.2932999996746815
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.2932999996746815,
+        48.85719999977259,
+        2.2932999996746815,
+        48.85719999977259
+      ],
+      "distance": 4322.66679426,
+      "datetimeFirst": {
+        "utc": "2016-11-21T14:00:00Z",
+        "local": "2016-11-21T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4115,
+      "name": "FR04146",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 180,
+        "name": "EEA France"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9746,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8174999994681,
+        "longitude": 2.395
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.395,
+        48.8174999994681,
+        2.395,
+        48.8174999994681
+      ],
+      "distance": 5364.5627757,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2018-04-20T06:00:00Z",
+        "local": "2018-04-20T08:00:00+02:00"
+      }
+    },
+    {
+      "id": 4116,
+      "name": "Rue Bonaparte",
+      "locality": "PARIS 6E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275077,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9747,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.85638799991912,
+        "longitude": 2.3352779998137407
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3352779998137407,
+        48.85638799991912,
+        2.3352779998137407,
+        48.85638799991912
+      ],
+      "distance": 1241.99027108,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4124,
+      "name": "PARIS 13eme",
+      "locality": "PARIS 13E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274755,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9779,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9782,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.82861000023597,
+        "longitude": 2.3602780000847456
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3602780000847456,
+        48.82861000023597,
+        2.3602780000847456,
+        48.82861000023597
+      ],
+      "distance": 3168.64747097,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4146,
+      "name": "PARIS Centre",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 180,
+        "name": "EEA France"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9835,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 9839,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9840,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 9852,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9865,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.85899751049642,
+        "longitude": 2.350998896374882
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.350998896374882,
+        48.85899751049642,
+        2.350998896374882,
+        48.85899751049642
+      ],
+      "distance": 280.81003472,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2019-09-23T08:00:00Z",
+        "local": "2019-09-23T10:00:00+02:00"
+      }
+    },
+    {
+      "id": 4153,
+      "name": "NEUILLY-SUR-SEINE",
+      "locality": "NEUILLY-SUR-SEINE",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274919,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 9850,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 9851,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 9854,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.88139000002848,
+        "longitude": 2.2780559998332586
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.2780559998332586,
+        48.88139000002848,
+        2.2780559998332586,
+        48.88139000002848
+      ],
+      "distance": 6098.18448358,
+      "datetimeFirst": {
+        "utc": "2016-11-21T12:00:00Z",
+        "local": "2016-11-21T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 5681,
+      "name": "FR04143",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 180,
+        "name": "EEA France"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15299,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 15300,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 15301,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 15302,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15303,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8594439994682,
+        "longitude": 2.351111
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.351111,
+        48.8594439994682,
+        2.351111,
+        48.8594439994682
+      ],
+      "distance": 326.21162461,
+      "datetimeFirst": {
+        "utc": "2017-09-22T01:00:00Z",
+        "local": "2017-09-22T03:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2018-04-25T00:00:00Z",
+        "local": "2018-04-25T02:00:00+02:00"
+      }
+    },
+    {
+      "id": 234575,
+      "name": "Brissac fixed",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 6,
+        "name": "Unknown Community Organization"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1349400,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.848938645,
+        "longitude": 2.36499019
+      },
+      "licenses": null,
+      "bounds": [
+        2.36499019,
+        48.848938645,
+        2.36499019,
+        48.848938645
+      ],
+      "distance": 1267.64929442,
+      "datetimeFirst": null,
+      "datetimeLast": null
+    },
+    {
+      "id": 234577,
+      "name": "Brissac fixed",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 6,
+        "name": "Unknown Community Organization"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1349402,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.848945705,
+        "longitude": 2.364986166
+      },
+      "licenses": null,
+      "bounds": [
+        2.364986166,
+        48.848945705,
+        2.364986166,
+        48.848945705
+      ],
+      "distance": 1266.90295531,
+      "datetimeFirst": null,
+      "datetimeLast": null
+    },
+    {
+      "id": 587143,
+      "name": "test 1 balcon",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 6,
+        "name": "Unknown Community Organization"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 3256646,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.825154892,
+        "longitude": 2.341694534
+      },
+      "licenses": null,
+      "bounds": [
+        2.341694534,
+        48.825154892,
+        2.341694534,
+        48.825154892
+      ],
+      "distance": 3580.92416136,
+      "datetimeFirst": null,
+      "datetimeLast": null
+    },
+    {
+      "id": 606484,
+      "name": "Test wifi",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 6,
+        "name": "Unknown Community Organization"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 3355854,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.825111629,
+        "longitude": 2.341664024
+      },
+      "licenses": null,
+      "bounds": [
+        2.341664024,
+        48.825111629,
+        2.341664024,
+        48.825111629
+      ],
+      "distance": 3586.10494597,
+      "datetimeFirst": null,
+      "datetimeLast": null
+    },
+    {
+      "id": 2162591,
+      "name": "PARIS 1er Les Halles",
+      "locality": "PARIS 1ER ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7773042,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 7775534,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 7773850,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 7773420,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 7775307,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7775825,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.86211999987271,
+        "longitude": 2.344615999768577
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.344615999768577,
+        48.86211999987271,
+        2.344615999768577,
+        48.86211999987271
+      ],
+      "distance": 828.56190433,
+      "datetimeFirst": {
+        "utc": "2024-01-28T23:00:00Z",
+        "local": "2024-01-29T00:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 2422682,
+      "name": "test",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7859785,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.780116143,
+        "longitude": 2.307183892
+      },
+      "licenses": null,
+      "bounds": [
+        2.307183892,
+        48.780116143,
+        2.307183892,
+        48.780116143
+      ],
+      "distance": 9125.34763695,
+      "datetimeFirst": null,
+      "datetimeLast": null
+    },
+    {
+      "id": 2995837,
+      "name": "Av Champs Elysees",
+      "locality": "PARIS 8E ARRONDISSEMENT",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 10124847,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 10124844,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.86877000026755,
+        "longitude": 2.3112309997697755
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3112309997697755,
+        48.86877000026755,
+        2.3112309997697755,
+        48.86877000026755
+      ],
+      "distance": 3296.62631141,
+      "datetimeFirst": {
+        "utc": "2024-07-27T11:00:00Z",
+        "local": "2024-07-27T13:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 2995860,
+      "name": "GENNEVILLIERS",
+      "locality": "GENNEVILLIERS",
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 10124849,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 10124824,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 10124825,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.930319999881185,
+        "longitude": 2.294349999986101
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.294349999986101,
+        48.930319999881185,
+        2.294349999986101,
+        48.930319999881185
+      ],
+      "distance": 9230.68794582,
+      "datetimeFirst": {
+        "utc": "2024-07-27T11:00:00Z",
+        "local": "2024-07-27T13:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T11:00:00Z",
+        "local": "2026-10-01T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 4313237,
+      "name": "Pont de Grenelle",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 16777,
+        "name": "JerryMcC"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14152704,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14152705,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14152706,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14152707,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14152708,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.85017,
+        "longitude": 2.27918
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "JerryMcC",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.27918,
+        48.85017,
+        2.27918,
+        48.85017
+      ],
+      "distance": 5406.1674382,
+      "datetimeFirst": {
+        "utc": "2025-09-19T00:00:00Z",
+        "local": "2025-09-19T02:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6169727,
+      "name": "80 Boulevard Garibaldi, Paris 75015 France",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14927465,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14927466,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14927467,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14927468,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14927469,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.84558,
+        "longitude": 2.30883
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.30883,
+        48.84558,
+        2.30883,
+        48.84558
+      ],
+      "distance": 3410.6842212,
+      "datetimeFirst": {
+        "utc": "2025-12-18T22:00:00Z",
+        "local": "2025-12-18T23:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6216239,
+      "name": "IFPEN Rueil 2",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15270994,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 15270995,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15270996,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15270997,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 15270998,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.88538539460946,
+        "longitude": 2.3210560856175313
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.3210560856175313,
+        48.88538539460946,
+        2.3210560856175313,
+        48.88538539460946
+      ],
+      "distance": 3932.85409931,
+      "datetimeFirst": {
+        "utc": "2026-01-26T13:00:00Z",
+        "local": "2026-01-26T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-28T04:00:00Z",
+        "local": "2026-04-28T06:00:00+02:00"
+      }
+    },
+    {
+      "id": 6308656,
+      "name": "Avenue Parmentier",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15958106,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 15958107,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15958108,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15958109,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 15958110,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.8638458,
+        "longitude": 2.37565
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.37565,
+        48.8638458,
+        2.37565,
+        48.8638458
+      ],
+      "distance": 1900.00258467,
+      "datetimeFirst": {
+        "utc": "2026-04-15T07:00:00Z",
+        "local": "2026-04-15T09:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6499690,
+      "name": "6 Boulevard Ornano Paris 75018",
+      "locality": null,
+      "timezone": "Europe/Paris",
+      "country": {
+        "id": 22,
+        "code": "FR",
+        "name": "France"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17326573,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17326574,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17326575,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17326576,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17326577,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 48.89199,
+        "longitude": 2.34933
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        2.34933,
+        48.89199,
+        2.34933,
+        48.89199
+      ],
+      "distance": 3941.25342395,
+      "datetimeFirst": {
+        "utc": "2026-08-21T11:00:00Z",
+        "local": "2026-08-21T13:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    }
+  ]
+}

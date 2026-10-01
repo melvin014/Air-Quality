@@ -1,0 +1,134 @@
+{
+  "fetch_started_at": "2026-10-01T13:40:37.171395+00:00",
+  "cities": [
+    {
+      "city": "London",
+      "country": "GB",
+      "location_found": true,
+      "location_id": 154,
+      "location_name": "Westminster - Marylebone Road",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Paris",
+      "country": "FR",
+      "location_found": true,
+      "location_id": 4039,
+      "location_name": "PARIS 18eme",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Berlin",
+      "country": "DE",
+      "location_found": true,
+      "location_id": 2993,
+      "location_name": "Berlin Neuk\u00f6lln",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "New York",
+      "country": "US",
+      "location_found": true,
+      "location_id": 2153518,
+      "location_name": "Jersey City Heights",
+      "parameters_pulled": [
+        "pm10",
+        "pm10",
+        "pm25",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Los Angeles",
+      "country": "US",
+      "location_found": true,
+      "location_id": 1575,
+      "location_name": "Los Angeles - N. Mai",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Delhi",
+      "country": "IN",
+      "location_found": true,
+      "location_id": 15,
+      "location_name": "IGI Airport",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Beijing",
+      "country": "CN",
+      "location_found": true,
+      "location_id": 7589,
+      "location_name": "\u5965\u4f53\u4e2d\u5fc3",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Sao Paulo",
+      "country": "BR",
+      "location_found": true,
+      "location_id": 5243,
+      "location_name": "Pinheiros",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Lagos",
+      "country": "NG",
+      "location_found": true,
+      "location_id": 6286016,
+      "location_name": "Miri Air - Cathedral Church, Marina",
+      "parameters_pulled": [
+        "pm10",
+        "pm25"
+      ]
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "location_found": true,
+      "location_id": 336,
+      "location_name": "Earlwood",
+      "parameters_pulled": [
+        "no2",
+        "o3",
+        "pm10",
+        "pm25"
+      ]
+    }
+  ],
+  "fetch_finished_at": "2026-10-01T13:41:40.732878+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "sensor_id": 246,
+  "city": "London",
+  "parameter": "pm25",
+  "results": [
+    {
+      "value": 1.0,
+      "flagInfo": {
+        "hasFlags": false
+      },
+      "parameter": {
+        "id": 2,
+        "name": "pm25",
+        "units": "\u00b5g/m\u00b3",
+        "displayName": null
+      },
+      "period": {
+        "label": "1 day",
+        "interval": "24:00:00",
+        "datetimeFrom": {
+          "utc": "2026-09-02T23:00:00Z",
+          "local": "2026-09-03T00:00:00+01:00"
+        },
+        "datetimeTo": {
+          "utc": "2026-09-03T23:00:00Z",
+          "local": "2026-09-04T00:00:00+01:00"
+        }
+      },
+      "coordinates": null,
+      "summary": {
+        "min": 1.0,
+        "q02": 1.0,
+        "q25": 1.0,
+        "median": 1.0,
+        "q75": 1.0,
+        "q98": 1.0,
+        "max": 1.0,
+        "avg": 1.0,
+        "sd": null
+      },
+      "coverage": {
+        "expectedCount": 24,
+        "expectedInterval": "576:00:00",
+        "observedCount": 1,
+        "observedInterval": "24:00:00",
+        "percentComplete": 4.0,
+        "percentCoverage": 100.0,
+        "datetimeFrom": {
+          "utc": "2026-09-03T05:00:00Z",
+          "local": "2026-09-03T06:00:00+01:00"
+        },
+        "datetimeTo": {
+          "utc": "2026-09-03T06:00:00Z",
+          "local": "2026-09-03T07:00:00+01:00"
+        }
+      }
+    },
+    {
+      "value": 10.0,
+      "flagInfo": {
+        "hasFlags": false
+      },
+      "parameter": {
+        "id": 2,
+        "name": "pm25",
+        "units": "\u00b5g/m\u00b3",
+        "displayName": null
+      },
+      "period": {
+        "label": "1 day",
+        "interval": "24:00:00",
+        "datetimeFrom": {
+          "utc": "2026-09-09T23:00:00Z",
+          "local": "2026-09-10T00:00:00+01:00"
+        },
+        "datetimeTo": {
+          "utc": "2026-09-10T23:00:00Z",
+          "local": "2026-09-11T00:00:00+01:00"
+        }
+      },
+      "coordinates": null,
+      "summary": {
+        "min": 10.0,
+        "q02": 10.0,
+        "q25": 10.0,
+        "median": 10.0,
+        "q75": 10.0,
+        "q98": 10.0,
+        "max": 10.0,
+        "avg": 10.0,
+        "sd": null
+      },
+      "coverage": {
+        "expectedCount": 24,
+        "expectedInterval": "576:00:00",
+        "observedCount": 1,
+        "observedInterval": "24:00:00",
+        "percentComplete": 4.0,
+        "percentCoverage": 100.0,
+        "datetimeFrom": {
+          "utc": "2026-09-10T07:00:00Z",
+          "local": "2026-09-10T08:00:00+01:00"
+        },
+        "datetimeTo": {
+          "utc": "2026-09-10T08:00:00Z",
+          "local": "2026-09-10T09:00:00+01:00"
+        }
+      }
+    }
+  ]
+}

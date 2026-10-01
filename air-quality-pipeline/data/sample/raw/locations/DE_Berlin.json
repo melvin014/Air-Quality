@@ -1,0 +1,2099 @@
+{
+  "query": {
+    "coordinates": "52.52,13.405",
+    "radius": 10000,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": 2993,
+      "name": "Berlin Neuk\u00f6lln",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 11839788,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4275134,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 6352,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 6353,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 6354,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300115,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.48945100006434,
+        "longitude": 13.430843999965024
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.430843999965024,
+        52.48945100006434,
+        13.430843999965024,
+        52.48945100006434
+      ],
+      "distance": 3825.64092291,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 3017,
+      "name": "Berlin Karlshorst",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275225,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 6415,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 6416,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.48529599985933,
+        "longitude": 13.529504000309398
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.529504000309398,
+        52.48529599985933,
+        13.529504000309398,
+        52.48529599985933
+      ],
+      "distance": 9294.79201449,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 3019,
+      "name": "Berlin Mitte",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275126,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 6418,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 6422,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300119,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.51360600001067,
+        "longitude": 13.41883300000022
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.41883300000022,
+        52.51360600001067,
+        13.41883300000022,
+        52.51360600001067
+      ],
+      "distance": 1178.15309086,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 3021,
+      "name": "DEBE064",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 181,
+        "name": "EEA Germany"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 6423,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 6425,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300117,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.481709,
+        "longitude": 13.433967
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.433967,
+        52.481709,
+        13.433967,
+        52.481709
+      ],
+      "distance": 4693.06244262,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2021-07-05T01:00:00Z",
+        "local": "2021-07-05T03:00:00+02:00"
+      }
+    },
+    {
+      "id": 3025,
+      "name": "DEBE063",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 181,
+        "name": "EEA Germany"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274508,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 6429,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 6430,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300118,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.467534,
+        "longitude": 13.441654
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-21",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.441654,
+        52.467534,
+        13.441654,
+        52.467534
+      ],
+      "distance": 6346.87874431,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-12-31T21:00:00Z",
+        "local": "2023-12-31T22:00:00+01:00"
+      }
+    },
+    {
+      "id": 3026,
+      "name": "Berlin Sch\u00f6neberg",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274466,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 6431,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.485814000177015,
+        "longitude": 13.348774999874411
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.348774999874411,
+        52.485814000177015,
+        13.348774999874411,
+        52.485814000177015
+      ],
+      "distance": 5389.6562192,
+      "datetimeFirst": {
+        "utc": "2016-11-21T13:00:00Z",
+        "local": "2016-11-21T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-12-12T12:00:00Z",
+        "local": "2024-12-12T13:00:00+01:00"
+      }
+    },
+    {
+      "id": 4761,
+      "name": "Berlin Wedding",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4275114,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 11988,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 11987,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 11986,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300112,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.543040999981905,
+        "longitude": 13.349326000418548
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.349326000418548,
+        52.543040999981905,
+        13.349326000418548,
+        52.543040999981905
+      ],
+      "distance": 4565.96845188,
+      "datetimeFirst": {
+        "utc": "2016-11-21T13:00:00Z",
+        "local": "2016-11-21T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 4762,
+      "name": "Berlin Schildhornstra\u00dfe",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 11991,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4275011,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 11990,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 11989,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300114,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.463610999810946,
+        "longitude": 13.318250000381642
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.318250000381642,
+        52.463610999810946,
+        13.318250000381642,
+        52.463610999810946
+      ],
+      "distance": 8607.67935046,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 4764,
+      "name": "Berlin Mariendorfer Damm 148",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274699,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 11995,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 11994,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300109,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.438114999889876,
+        "longitude": 13.387720000153392
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.387720000153392,
+        52.438114999889876,
+        13.387720000153392,
+        52.438114999889876
+      ],
+      "distance": 9187.19636527,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 4765,
+      "name": "Berlin Hardenbergplatz",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4274675,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 11996,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.50659999994566,
+        "longitude": 13.332971999991248
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.332971999991248,
+        52.50659999994566,
+        13.332971999991248,
+        52.50659999994566
+      ],
+      "distance": 5112.25435259,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-12-12T12:00:00Z",
+        "local": "2024-12-12T13:00:00+01:00"
+      }
+    },
+    {
+      "id": 4767,
+      "name": "Berlin Frankfurter Allee",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 12002,
+          "name": "co \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 4,
+            "name": "co",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "CO mass"
+          }
+        },
+        {
+          "id": 4275456,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 12001,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 23674,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 12000,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1300111,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 11999,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.51407199975142,
+        "longitude": 13.469930999635912
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.469930999635912,
+        52.51407199975142,
+        13.469930999635912,
+        52.51407199975142
+      ],
+      "distance": 4456.86171388,
+      "datetimeFirst": {
+        "utc": "2016-11-21T11:00:00Z",
+        "local": "2016-11-21T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 2162178,
+      "name": "Berlin Leipziger Stra\u00dfe (MC)",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7773670,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 7774108,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 7775032,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7773630,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.50981299973173,
+        "longitude": 13.382376999608192
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.382376999608192,
+        52.50981299973173,
+        13.382376999608192,
+        52.50981299973173
+      ],
+      "distance": 1908.85486751,
+      "datetimeFirst": {
+        "utc": "2024-01-28T23:00:00Z",
+        "local": "2024-01-29T00:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 2162180,
+      "name": "Berlin Karl-Marx-Stra\u00dfe II",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7772936,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 7774643,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 7775158,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7772891,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.483810999822715,
+        "longitude": 13.429670999629955
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.429670999629955,
+        52.483810999822715,
+        13.429670999629955,
+        52.483810999822715
+      ],
+      "distance": 4361.59197327,
+      "datetimeFirst": {
+        "utc": "2024-01-28T23:00:00Z",
+        "local": "2024-01-29T00:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 2162181,
+      "name": "Berlin Silbersteinstra\u00dfe 5",
+      "locality": "Berlin",
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 70,
+        "name": "EEA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7772782,
+          "name": "no \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19843,
+            "name": "no",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO mass"
+          }
+        },
+        {
+          "id": 7773772,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 7774619,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7775426,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.46747000023927,
+        "longitude": 13.441209999591656
+      },
+      "licenses": [
+        {
+          "id": 10,
+          "name": "ODC-BY",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-11-17",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.441209999591656,
+        52.46747000023927,
+        13.441209999591656,
+        52.46747000023927
+      ],
+      "distance": 6341.67515112,
+      "datetimeFirst": {
+        "utc": "2024-01-28T23:00:00Z",
+        "local": "2024-01-29T00:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T12:00:00Z",
+        "local": "2026-10-01T14:00:00+02:00"
+      }
+    },
+    {
+      "id": 2977853,
+      "name": "Berlin-Neukoelln Donaustr.",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 3163,
+        "name": "Denis"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 10058981,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 10059008,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 10058990,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 10059020,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 10058999,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 10059019,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.4796999,
+        "longitude": 13.4404605
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Denis",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.4404605,
+        52.4796999,
+        13.4404605,
+        52.4796999
+      ],
+      "distance": 5090.14535201,
+      "datetimeFirst": {
+        "utc": "2024-07-24T12:00:00Z",
+        "local": "2024-07-24T14:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-29T15:00:00Z",
+        "local": "2026-04-29T17:00:00+02:00"
+      }
+    },
+    {
+      "id": 3349325,
+      "name": "Berlin-Neukoelln Donaustrasse North",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 11483,
+        "name": "Bene"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 11893882,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 11893894,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 11893866,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 11893895,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 11893876,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 11893886,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.484552777362225,
+        "longitude": 13.431048712609622
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Bene",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.431048712609622,
+        52.484552777362225,
+        13.431048712609622,
+        52.484552777362225
+      ],
+      "distance": 4322.92497859,
+      "datetimeFirst": {
+        "utc": "2025-01-04T08:00:00Z",
+        "local": "2025-01-04T09:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 5932179,
+      "name": "Schwerinstrasse Innenhof",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14226407,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14226408,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14226409,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14226410,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14226411,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.49799,
+        "longitude": 13.35864
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.35864,
+        52.49799,
+        13.35864,
+        52.49799
+      ],
+      "distance": 3988.29240699,
+      "datetimeFirst": {
+        "utc": "2025-09-27T12:00:00Z",
+        "local": "2025-09-27T14:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6153720,
+      "name": "Prinzregentenstr. Berlin",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14807405,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14807406,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14807407,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14807408,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14807409,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.48696690640685,
+        "longitude": 13.333470065605942
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.333470065605942,
+        52.48696690640685,
+        13.333470065605942,
+        52.48696690640685
+      ],
+      "distance": 6091.33298208,
+      "datetimeFirst": {
+        "utc": "2025-12-05T18:00:00Z",
+        "local": "2025-12-05T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6260438,
+      "name": "Balcony",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15597616,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 15597617,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15597618,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15597619,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 15597620,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.54474268013562,
+        "longitude": 13.421300438073672
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.421300438073672,
+        52.54474268013562,
+        13.421300438073672,
+        52.54474268013562
+      ],
+      "distance": 2967.19535683,
+      "datetimeFirst": {
+        "utc": "2026-03-04T21:00:00Z",
+        "local": "2026-03-04T22:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    },
+    {
+      "id": 6270306,
+      "name": "DM",
+      "locality": null,
+      "timezone": "Europe/Berlin",
+      "country": {
+        "id": 50,
+        "code": "DE",
+        "name": "Germany"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15671983,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 15671984,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15671985,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15671986,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 15671987,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.547557,
+        "longitude": 13.426173
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        13.426173,
+        52.547557,
+        13.426173,
+        52.547557
+      ],
+      "distance": 3386.37575883,
+      "datetimeFirst": {
+        "utc": "2026-03-13T13:00:00Z",
+        "local": "2026-03-13T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T15:00:00+02:00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+  "query": {
+    "coordinates": "-23.5505,-46.6333",
+    "radius": 15000,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": 5233,
+      "name": "Cid.Universit\u00e1ria-USP-Ipen",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13546,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13547,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13548,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.56634178,
+        "longitude": -46.73741428
+      },
+      "licenses": null,
+      "bounds": [
+        -46.73741428,
+        -23.56634178,
+        -46.73741428,
+        -23.56634178
+      ],
+      "distance": 10773.47095718,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5243,
+      "name": "Pinheiros",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13735,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13736,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13737,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13570,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 13738,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.56145989,
+        "longitude": -46.70201651
+      },
+      "licenses": null,
+      "bounds": [
+        -46.70201651,
+        -23.56145989,
+        -46.70201651,
+        -23.56145989
+      ],
+      "distance": 7120.03704956,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5252,
+      "name": "Congonhas",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13607,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13609,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13653,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 13654,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13608,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.61632008,
+        "longitude": -46.66346553
+      },
+      "licenses": null,
+      "bounds": [
+        -46.66346553,
+        -23.61632008,
+        -46.66346553,
+        -23.61632008
+      ],
+      "distance": 7913.37379596,
+      "datetimeFirst": {
+        "utc": "2017-08-10T23:00:00Z",
+        "local": "2017-08-10T20:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5262,
+      "name": "Tabo\u00e3o da Serra",
+      "locality": null,
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13624,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13794,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13795,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.60932386,
+        "longitude": -46.75829437
+      },
+      "licenses": null,
+      "bounds": [
+        -46.75829437,
+        -23.60932386,
+        -46.75829437,
+        -23.60932386
+      ],
+      "distance": 14326.35171598,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-03-31T10:00:00Z",
+        "local": "2023-03-31T07:00:00-03:00"
+      }
+    },
+    {
+      "id": 5270,
+      "name": "Cerqueira C\u00e9sar",
+      "locality": "Cerqueira C\u00e9sar",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13649,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13650,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13651,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 13652,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.55354256,
+        "longitude": -46.67270477
+      },
+      "licenses": null,
+      "bounds": [
+        -46.67270477,
+        -23.55354256,
+        -46.67270477,
+        -23.55354256
+      ],
+      "distance": 4037.34911845,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5277,
+      "name": "Ibirapuera",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13682,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13683,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13684,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13685,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.59184199,
+        "longitude": -46.6606875
+      },
+      "licenses": null,
+      "bounds": [
+        -46.6606875,
+        -23.59184199,
+        -46.6606875,
+        -23.59184199
+      ],
+      "distance": 5364.84437052,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-02-16T00:00:00Z",
+        "local": "2023-02-15T21:00:00-03:00"
+      }
+    },
+    {
+      "id": 5282,
+      "name": "Parque D.Pedro II",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13730,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13731,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13728,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13729,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 13701,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.54484566,
+        "longitude": -46.62767559
+      },
+      "licenses": null,
+      "bounds": [
+        -46.62767559,
+        -23.54484566,
+        -46.62767559,
+        -23.54484566
+      ],
+      "distance": 849.67911685,
+      "datetimeFirst": {
+        "utc": "2017-08-10T22:00:00Z",
+        "local": "2017-08-10T19:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5284,
+      "name": "Marg.Tiet\u00ea-Pte Rem\u00e9dios",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 5079362,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 5079360,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 5079359,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 5079361,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.51870583,
+        "longitude": -46.74332004
+      },
+      "licenses": null,
+      "bounds": [
+        -46.74332004,
+        -23.51870583,
+        -46.74332004,
+        -23.51870583
+      ],
+      "distance": 11773.52964514,
+      "datetimeFirst": {
+        "utc": "2022-10-03T20:00:00Z",
+        "local": "2022-10-03T17:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-10-04T19:00:00Z",
+        "local": "2022-10-04T16:00:00-03:00"
+      }
+    },
+    {
+      "id": 5288,
+      "name": "Mooca",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13720,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13721,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13722,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 391213,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.54973405,
+        "longitude": -46.60041665
+      },
+      "licenses": null,
+      "bounds": [
+        -46.60041665,
+        -23.54973405,
+        -46.60041665,
+        -23.54973405
+      ],
+      "distance": 3358.5393716,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5289,
+      "name": "N.Senhora do \u00d3",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13723,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13724,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.48009871,
+        "longitude": -46.69205192
+      },
+      "licenses": null,
+      "bounds": [
+        -46.69205192,
+        -23.48009871,
+        -46.69205192,
+        -23.48009871
+      ],
+      "distance": 9838.55554634,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5296,
+      "name": "S.Bernardo-Paulic\u00e9ia",
+      "locality": null,
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13759,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.67135396,
+        "longitude": -46.58466789
+      },
+      "licenses": null,
+      "bounds": [
+        -46.58466789,
+        -23.67135396,
+        -46.58466789,
+        -23.67135396
+      ],
+      "distance": 14275.4478819,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T19:00:00Z",
+        "local": "2023-04-05T16:00:00-03:00"
+      }
+    },
+    {
+      "id": 5299,
+      "name": "Santana",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13774,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13769,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.50599272,
+        "longitude": -46.6289603
+      },
+      "licenses": null,
+      "bounds": [
+        -46.6289603,
+        -23.50599272,
+        -46.6289603,
+        -23.50599272
+      ],
+      "distance": 4949.1276304,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5301,
+      "name": "Santo Amaro",
+      "locality": "S\u00e3o Paulo",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13775,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13776,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13777,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.65497723,
+        "longitude": -46.70999838
+      },
+      "licenses": null,
+      "bounds": [
+        -46.70999838,
+        -23.65497723,
+        -46.70999838,
+        -23.65497723
+      ],
+      "distance": 13970.24529918,
+      "datetimeFirst": {
+        "utc": "2017-07-01T00:00:00Z",
+        "local": "2017-06-30T21:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 5304,
+      "name": "S\u00e3o Caetano do Sul",
+      "locality": "S\u00e3o Caetano do Sul",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 220,
+        "name": "Sao Paulo CETESB"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13785,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 13786,
+          "name": "no2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 5,
+            "name": "no2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "NO\u2082 mass"
+          }
+        },
+        {
+          "id": 13787,
+          "name": "o3 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 3,
+            "name": "o3",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "O\u2083 mass"
+          }
+        },
+        {
+          "id": 13788,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 391216,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13789,
+          "name": "so2 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 6,
+            "name": "so2",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "SO\u2082 mass"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.61844277,
+        "longitude": -46.55635394
+      },
+      "licenses": null,
+      "bounds": [
+        -46.55635394,
+        -23.61844277,
+        -46.55635394,
+        -23.61844277
+      ],
+      "distance": 10877.19450285,
+      "datetimeFirst": {
+        "utc": "2017-07-01T15:00:00Z",
+        "local": "2017-07-01T12:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-04-05T20:00:00Z",
+        "local": "2023-04-05T17:00:00-03:00"
+      }
+    },
+    {
+      "id": 589967,
+      "name": "Sao Paulo",
+      "locality": "N/A",
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 3271948,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.629158,
+        "longitude": -46.696558
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        -46.696558,
+        -23.629158,
+        -46.696558,
+        -23.629158
+      ],
+      "distance": 10843.52924369,
+      "datetimeFirst": {
+        "utc": "2023-02-14T02:00:00Z",
+        "local": "2023-02-13T23:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-03-04T12:00:00Z",
+        "local": "2025-03-04T09:00:00-03:00"
+      }
+    },
+    {
+      "id": 6139516,
+      "name": "S\u00e3o Paulo",
+      "locality": null,
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14700784,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14700785,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14700786,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14700787,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14700788,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.6473149,
+        "longitude": -46.6643635
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        -46.6643635,
+        -23.6473149,
+        -46.6643635,
+        -23.6473149
+      ],
+      "distance": 11181.4013826,
+      "datetimeFirst": {
+        "utc": "2025-11-22T22:00:00Z",
+        "local": "2025-11-22T19:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T10:00:00-03:00"
+      }
+    },
+    {
+      "id": 6460996,
+      "name": "Sao Paulo",
+      "locality": null,
+      "timezone": "America/Sao_Paulo",
+      "country": {
+        "id": 45,
+        "code": "BR",
+        "name": "Brazil"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17043456,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17043457,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17043458,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17043459,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17043460,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -23.564096,
+        "longitude": -46.665564
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        -46.665564,
+        -23.564096,
+        -46.665564,
+        -23.564096
+      ],
+      "distance": 3621.89977693,
+      "datetimeFirst": {
+        "utc": "2026-07-26T05:00:00Z",
+        "local": "2026-07-26T02:00:00-03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T10:00:00-03:00"
+      }
+    }
+  ]
+}

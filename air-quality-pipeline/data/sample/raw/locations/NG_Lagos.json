@@ -1,0 +1,6482 @@
+{
+  "query": {
+    "coordinates": "6.5244,3.3792",
+    "radius": 20000,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": 404479,
+      "name": "Lagos",
+      "locality": "N/A",
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 2251459,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.440483,
+        "longitude": 3.406815
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.406815,
+        6.440483,
+        3.406815,
+        6.440483
+      ],
+      "distance": 9770.02484946,
+      "datetimeFirst": {
+        "utc": "2022-12-10T13:00:00Z",
+        "local": "2022-12-10T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-02-12T16:00:00Z",
+        "local": "2025-02-12T17:00:00+01:00"
+      }
+    },
+    {
+      "id": 3400895,
+      "name": "University of Lagos/Makoko",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 12178111,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 12178112,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 12178113,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 12178114,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 12178475,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.517912,
+        "longitude": 3.385983
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.385983,
+        6.517912,
+        3.385983,
+        6.517912
+      ],
+      "distance": 1038.09695999,
+      "datetimeFirst": {
+        "utc": "2025-02-11T18:00:00Z",
+        "local": "2025-02-11T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-05T23:00:00Z",
+        "local": "2026-09-06T00:00:00+01:00"
+      }
+    },
+    {
+      "id": 4579812,
+      "name": "Sagamu Road - Ikorodu",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 22,
+          "name": "AirGradient ONE Generation 9 (I-9PSL-DE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13844884,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13844885,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13844886,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13844887,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13844888,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.63512,
+        "longitude": 3.51558
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.51558,
+        6.63512,
+        3.51558,
+        6.63512
+      ],
+      "distance": 19426.90219754,
+      "datetimeFirst": {
+        "utc": "2025-08-12T19:00:00Z",
+        "local": "2025-08-12T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-27T23:00:00Z",
+        "local": "2026-09-28T00:00:00+01:00"
+      }
+    },
+    {
+      "id": 4605121,
+      "name": "M.K.O Abiola Gardens",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 22,
+          "name": "AirGradient ONE Generation 9 (I-9PSL-DE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13851865,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13851866,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13851867,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13851868,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13851869,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.621462,
+        "longitude": 3.362492
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.362492,
+        6.621462,
+        3.362492,
+        6.621462
+      ],
+      "distance": 10891.85317146,
+      "datetimeFirst": {
+        "utc": "2025-08-13T14:00:00Z",
+        "local": "2025-08-13T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-20T17:00:00Z",
+        "local": "2026-08-20T18:00:00+01:00"
+      }
+    },
+    {
+      "id": 4839210,
+      "name": "Ikate - Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13408230,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13408231,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13408232,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13408233,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13408234,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.42993,
+        "longitude": 3.48893
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.48893,
+        6.42993,
+        3.48893,
+        6.42993
+      ],
+      "distance": 16014.61641326,
+      "datetimeFirst": {
+        "utc": "2025-06-23T16:00:00Z",
+        "local": "2025-06-23T17:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-11-08T19:00:00Z",
+        "local": "2025-11-08T20:00:00+01:00"
+      }
+    },
+    {
+      "id": 4850452,
+      "name": "Shagisha - Magodo",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13418560,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13418561,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13418562,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13418563,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13418564,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.6138978826038075,
+        "longitude": 3.37470481094047
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.37470481094047,
+        6.6138978826038075,
+        3.37470481094047,
+        6.6138978826038075
+      ],
+      "distance": 9909.94178899,
+      "datetimeFirst": {
+        "utc": "2025-06-24T18:00:00Z",
+        "local": "2025-06-24T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-05-09T13:00:00Z",
+        "local": "2026-05-09T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 4903342,
+      "name": "Osborne - Ikoyi",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13466037,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13466038,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13466039,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13466040,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13466041,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.458151,
+        "longitude": 3.423132
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.423132,
+        6.458151,
+        3.423132,
+        6.458151
+      ],
+      "distance": 8791.41576234,
+      "datetimeFirst": {
+        "utc": "2025-06-29T20:00:00Z",
+        "local": "2025-06-29T21:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-03-15T22:00:00Z",
+        "local": "2026-03-15T23:00:00+01:00"
+      }
+    },
+    {
+      "id": 4903422,
+      "name": "Dolphin Estate - Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13466605,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13466606,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13466607,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13466608,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13466609,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.45829,
+        "longitude": 3.415643
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.415643,
+        6.45829,
+        3.415643,
+        6.45829
+      ],
+      "distance": 8348.62707063,
+      "datetimeFirst": {
+        "utc": "2025-06-29T21:00:00Z",
+        "local": "2025-06-29T22:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 4944273,
+      "name": "LAMATA Place",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13500416,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13500417,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13500418,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13500419,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13500420,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.594939496390745,
+        "longitude": 3.383161425214081
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.383161425214081,
+        6.594939496390745,
+        3.383161425214081,
+        6.594939496390745
+      ],
+      "distance": 7813.16912678,
+      "datetimeFirst": {
+        "utc": "2025-07-03T11:00:00Z",
+        "local": "2025-07-03T12:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-07-09T18:00:00Z",
+        "local": "2025-07-09T19:00:00+01:00"
+      }
+    },
+    {
+      "id": 4944274,
+      "name": "Ikorodu Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13500421,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13500422,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13500423,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13500424,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13500425,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.620975479998507,
+        "longitude": 3.5025483023129773
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.5025483023129773,
+        6.620975479998507,
+        3.5025483023129773,
+        6.620975479998507
+      ],
+      "distance": 17324.96193167,
+      "datetimeFirst": {
+        "utc": "2025-07-03T12:00:00Z",
+        "local": "2025-07-03T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-07-04T11:00:00Z",
+        "local": "2025-07-04T12:00:00+01:00"
+      }
+    },
+    {
+      "id": 4959161,
+      "name": "Ketu - Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 22,
+          "name": "AirGradient ONE Generation 9 (I-9PSL-DE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13512807,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13512808,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13512809,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13512810,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13512811,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.597049977017641,
+        "longitude": 3.3887163100637974
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3887163100637974,
+        6.597049977017641,
+        3.3887163100637974,
+        6.597049977017641
+      ],
+      "distance": 8102.91266649,
+      "datetimeFirst": {
+        "utc": "2025-07-04T20:00:00Z",
+        "local": "2025-07-04T21:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-07T18:00:00Z",
+        "local": "2026-09-07T19:00:00+01:00"
+      }
+    },
+    {
+      "id": 4969237,
+      "name": "Oshodi",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13520830,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13520831,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13520832,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13520833,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13520834,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.55657799743097,
+        "longitude": 3.3523061186399925
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3523061186399925,
+        6.55657799743097,
+        3.3523061186399925,
+        6.55657799743097
+      ],
+      "distance": 4637.93902159,
+      "datetimeFirst": {
+        "utc": "2025-07-05T18:00:00Z",
+        "local": "2025-07-05T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-07-21T10:00:00Z",
+        "local": "2025-07-21T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 4986946,
+      "name": "Arepo - Ogun State",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13534808,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13534809,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13534810,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13534811,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13534812,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.696900148176493,
+        "longitude": 3.425331320586317
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.425331320586317,
+        6.696900148176493,
+        3.425331320586317,
+        6.696900148176493
+      ],
+      "distance": 19746.93886175,
+      "datetimeFirst": {
+        "utc": "2025-07-07T08:00:00Z",
+        "local": "2025-07-07T09:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-23T20:00:00Z",
+        "local": "2026-08-23T21:00:00+01:00"
+      }
+    },
+    {
+      "id": 5009574,
+      "name": "Ikorodu Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13552436,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13552437,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13552438,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13552439,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13552440,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.621149,
+        "longitude": 3.502032
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.502032,
+        6.621149,
+        3.502032,
+        6.621149
+      ],
+      "distance": 17291.9036847,
+      "datetimeFirst": {
+        "utc": "2025-07-09T06:00:00Z",
+        "local": "2025-07-09T07:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-07-09T09:00:00Z",
+        "local": "2025-07-09T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 5011605,
+      "name": "Ikorodu Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13553848,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13553849,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13553850,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13553851,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13553852,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.620901238525096,
+        "longitude": 3.502717467376165
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.502717467376165,
+        6.620901238525096,
+        3.502717467376165,
+        6.620901238525096
+      ],
+      "distance": 17334.64147695,
+      "datetimeFirst": {
+        "utc": "2025-07-09T10:00:00Z",
+        "local": "2025-07-09T11:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T09:00:00Z",
+        "local": "2026-10-01T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 5016266,
+      "name": "LAMATA Place",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13557361,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13557362,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13557363,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13557364,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13557365,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.594365727074691,
+        "longitude": 3.383247245085032
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.383247245085032,
+        6.594365727074691,
+        3.383247245085032,
+        6.594365727074691
+      ],
+      "distance": 7750.35962276,
+      "datetimeFirst": {
+        "utc": "2025-07-09T19:00:00Z",
+        "local": "2025-07-09T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-10-04T14:00:00Z",
+        "local": "2025-10-04T15:00:00+01:00"
+      }
+    },
+    {
+      "id": 5038498,
+      "name": "Oshodi Bus Terminal 3",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13573592,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13573593,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13573594,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13573595,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13573596,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.556652608079174,
+        "longitude": 3.352284660968298
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.352284660968298,
+        6.556652608079174,
+        3.352284660968298,
+        6.556652608079174
+      ],
+      "distance": 4645.79296249,
+      "datetimeFirst": {
+        "utc": "2025-07-11T14:00:00Z",
+        "local": "2025-07-11T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 5045024,
+      "name": "Ifako-Ijaiye Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13578378,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13578379,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13578380,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13578381,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13578382,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.631341496657129,
+        "longitude": 3.3246618554587486
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3246618554587486,
+        6.631341496657129,
+        3.3246618554587486,
+        6.631341496657129
+      ],
+      "distance": 13275.74646711,
+      "datetimeFirst": {
+        "utc": "2025-07-12T05:00:00Z",
+        "local": "2025-07-12T06:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T09:00:00Z",
+        "local": "2026-10-01T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 5046018,
+      "name": "Agege Redline Train Station",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13578918,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13578919,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13578920,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13578921,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13578922,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.620994137087932,
+        "longitude": 3.325885204452219
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.325885204452219,
+        6.620994137087932,
+        3.325885204452219,
+        6.620994137087932
+      ],
+      "distance": 12201.45732393,
+      "datetimeFirst": {
+        "utc": "2025-07-12T06:00:00Z",
+        "local": "2025-07-12T07:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T09:00:00Z",
+        "local": "2026-10-01T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 5095987,
+      "name": "Iju Redline Train Station ",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843834,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843835,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843836,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843837,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843838,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.662634008190884,
+        "longitude": 3.3188086802541106
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3188086802541106,
+        6.662634008190884,
+        3.3188086802541106,
+        6.662634008190884
+      ],
+      "distance": 16682.328238,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-10-06T18:00:00Z",
+        "local": "2025-10-06T19:00:00+01:00"
+      }
+    },
+    {
+      "id": 5108993,
+      "name": "Ikeja Bus Terminal ",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13928963,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13928964,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13928965,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13928966,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13928967,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.59155243234869,
+        "longitude": 3.3384300914911758
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3384300914911758,
+        6.59155243234869,
+        3.3384300914911758,
+        6.59155243234869
+      ],
+      "distance": 8687.97720902,
+      "datetimeFirst": {
+        "utc": "2025-08-22T16:00:00Z",
+        "local": "2025-08-22T17:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-01T10:00:00Z",
+        "local": "2026-04-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 5129500,
+      "name": "Abule Egaba Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13860204,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13860205,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13860206,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13860207,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13860208,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.64748483724529,
+        "longitude": 3.30651086882426
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.30651086882426,
+        6.64748483724529,
+        3.30651086882426,
+        6.64748483724529
+      ],
+      "distance": 15808.28085315,
+      "datetimeFirst": {
+        "utc": "2025-08-14T16:00:00Z",
+        "local": "2025-08-14T17:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-29T20:00:00Z",
+        "local": "2026-09-29T21:00:00+01:00"
+      }
+    },
+    {
+      "id": 5154310,
+      "name": "MMIA Ewu Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843839,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843840,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843841,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843842,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843843,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.5555233060620735,
+        "longitude": 3.323778200865337
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.323778200865337,
+        6.5555233060620735,
+        3.323778200865337,
+        6.5555233060620735
+      ],
+      "distance": 7029.87387597,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-15T10:00:00Z",
+        "local": "2026-04-15T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 5188632,
+      "name": "Ojota Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843844,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843845,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843846,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843847,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843848,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.5893928423585315,
+        "longitude": 3.3780244498389376
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3780244498389376,
+        6.5893928423585315,
+        3.3780244498389376,
+        6.5893928423585315
+      ],
+      "distance": 7188.65332269,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-18T00:00:00Z",
+        "local": "2026-04-18T01:00:00+01:00"
+      }
+    },
+    {
+      "id": 5269430,
+      "name": "Fadeyi BRT Bus-Stop",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843849,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843850,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843851,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843852,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843853,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.52413031198638,
+        "longitude": 3.3676271239245485
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3676271239245485,
+        6.52413031198638,
+        3.3676271239245485,
+        6.52413031198638
+      ],
+      "distance": 1280.34622797,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 5269431,
+      "name": "Ojuelegba QBC",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14010805,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14010806,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14010807,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14010808,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14010809,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.510316056732983,
+        "longitude": 3.3628513749513247
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3628513749513247,
+        6.510316056732983,
+        3.3628513749513247,
+        6.510316056732983
+      ],
+      "distance": 2386.54589223,
+      "datetimeFirst": {
+        "utc": "2025-09-01T08:00:00Z",
+        "local": "2025-09-01T09:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-09-30T14:00:00Z",
+        "local": "2025-09-30T15:00:00+01:00"
+      }
+    },
+    {
+      "id": 5269926,
+      "name": "Cele Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843854,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843855,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843856,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843857,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843858,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.512139873921023,
+        "longitude": 3.3339536248928296
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3339536248928296,
+        6.512139873921023,
+        3.3339536248928296,
+        6.512139873921023
+      ],
+      "distance": 5184.87166427,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-01-12T10:00:00Z",
+        "local": "2026-01-12T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 5350409,
+      "name": "LASWA - Five Cowries Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13843859,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 13843860,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 13843861,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 13843862,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 13843863,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.442321082249053,
+        "longitude": 3.4274247088200775
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.4274247088200775,
+        6.442321082249053,
+        3.4274247088200775,
+        6.442321082249053
+      ],
+      "distance": 10528.32923573,
+      "datetimeFirst": {
+        "utc": "2025-08-12T14:00:00Z",
+        "local": "2025-08-12T15:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 5516338,
+      "name": "MARINA INTERCHANGE STATION",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 15,
+        "name": "IQAir"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 17,
+          "name": "AirVisual"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13923456,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.4461,
+        "longitude": 3.395
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2025-03-25",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.395,
+        6.4461,
+        3.395,
+        6.4461
+      ],
+      "distance": 8833.68111609,
+      "datetimeFirst": {
+        "utc": "2025-08-21T13:00:00Z",
+        "local": "2025-08-21T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 5516341,
+      "name": "Mile 2 Interchange",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 15,
+        "name": "IQAir"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 17,
+          "name": "AirVisual"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13923457,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.4383,
+        "longitude": 3.2634
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2025-03-25",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.2634,
+        6.4383,
+        3.2634,
+        6.4383
+      ],
+      "distance": 15960.3050744,
+      "datetimeFirst": {
+        "utc": "2025-08-21T13:00:00Z",
+        "local": "2025-08-21T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T06:00:00Z",
+        "local": "2026-10-01T07:00:00+01:00"
+      }
+    },
+    {
+      "id": 5516343,
+      "name": "Justrite - Ogolonto",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 15,
+        "name": "IQAir"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 17,
+          "name": "AirVisual"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 13923470,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.6187,
+        "longitude": 3.4757
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2025-03-25",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.4757,
+        6.6187,
+        3.4757,
+        6.6187
+      ],
+      "distance": 14921.47349574,
+      "datetimeFirst": {
+        "utc": "2025-08-21T13:00:00Z",
+        "local": "2025-08-21T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6095033,
+      "name": "Ojuelegba QBC",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14374450,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14374451,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14374452,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14374453,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14374454,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.510316056732983,
+        "longitude": 3.3628513749513247
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3628513749513247,
+        6.510316056732983,
+        3.3628513749513247,
+        6.510316056732983
+      ],
+      "distance": 2386.54589223,
+      "datetimeFirst": {
+        "utc": "2025-10-14T12:00:00Z",
+        "local": "2025-10-14T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-06-03T13:00:00Z",
+        "local": "2026-06-03T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6098049,
+      "name": "Mile 12 Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14396502,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14396503,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14396504,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14396505,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14396506,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.6050499290453395,
+        "longitude": 3.4016545752402303
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.4016545752402303,
+        6.6050499290453395,
+        3.4016545752402303,
+        6.6050499290453395
+      ],
+      "distance": 9258.25050798,
+      "datetimeFirst": {
+        "utc": "2025-10-17T03:00:00Z",
+        "local": "2025-10-17T04:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6135379,
+      "name": "Agidigbi - Acme Road",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14671554,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14671555,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14671556,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14671557,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14671558,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.623708,
+        "longitude": 3.35343
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.35343,
+        6.623708,
+        3.35343,
+        6.623708
+      ],
+      "distance": 11346.11997784,
+      "datetimeFirst": {
+        "utc": "2025-11-18T22:00:00Z",
+        "local": "2025-11-18T23:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-12-30T16:00:00Z",
+        "local": "2025-12-30T17:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286016,
+      "name": "Miri Air - Cathedral Church, Marina",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787526,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787527,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787528,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787529,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787530,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.45105,
+        "longitude": 3.390427
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.390427,
+        6.45105,
+        3.390427,
+        6.45105
+      ],
+      "distance": 8206.17007102,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-03T20:00:00Z",
+        "local": "2026-07-03T21:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286019,
+      "name": "Miri Air - Oregun",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787521,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787522,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787523,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787524,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787525,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.600993,
+        "longitude": 3.374127
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.374127,
+        6.600993,
+        3.374127,
+        6.600993
+      ],
+      "distance": 8488.88720275,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-23T03:00:00Z",
+        "local": "2026-08-23T04:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286020,
+      "name": "Miri Air - Ipaja",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787511,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787512,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787513,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787514,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787515,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.606038,
+        "longitude": 3.28162
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.28162,
+        6.606038,
+        3.28162,
+        6.606038
+      ],
+      "distance": 14070.2553088,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-30T22:00:00Z",
+        "local": "2026-09-30T23:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286021,
+      "name": "Miri Air - Amuwo Odofin",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787541,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787542,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787543,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787544,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787545,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.476257,
+        "longitude": 3.321345
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.321345,
+        6.476257,
+        3.321345,
+        6.476257
+      ],
+      "distance": 8324.43177851,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-08T10:00:00Z",
+        "local": "2026-08-08T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286023,
+      "name": "Miri Air - Anwar-ul-Islam Model College",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787536,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787537,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787538,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787539,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787540,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.61357,
+        "longitude": 3.31702
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.31702,
+        6.61357,
+        3.31702,
+        6.61357
+      ],
+      "distance": 12022.16269727,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-31T17:00:00Z",
+        "local": "2026-07-31T18:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286024,
+      "name": "Miri Air - Gbagada",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787551,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787552,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787553,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787554,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787555,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.551907,
+        "longitude": 3.380637
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.380637,
+        6.551907,
+        3.380637,
+        6.551907
+      ],
+      "distance": 3046.11165903,
+      "datetimeFirst": {
+        "utc": "2026-03-01T00:00:00Z",
+        "local": "2026-03-01T01:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-31T13:00:00Z",
+        "local": "2026-07-31T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6286025,
+      "name": "Miri Air - Igbogbo Ikorodu",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 31810,
+        "name": "Miri Africa"
+      },
+      "provider": {
+        "id": 444,
+        "name": "Miri Africa"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Miri Air"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15787516,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 15787517,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15787518,
+          "name": "pressure hpa",
+          "parameter": {
+            "id": 95,
+            "name": "pressure",
+            "units": "hpa",
+            "displayName": "Atmospheric pressure"
+          }
+        },
+        {
+          "id": 15787519,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15787520,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.59405,
+        "longitude": 3.506105
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Miri Africa",
+            "url": null
+          },
+          "dateFrom": "2026-03-01",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.506105,
+        6.59405,
+        3.506105,
+        6.59405
+      ],
+      "distance": 16009.80349757,
+      "datetimeFirst": {
+        "utc": "2026-03-19T12:00:00Z",
+        "local": "2026-03-19T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-30T12:00:00Z",
+        "local": "2026-09-30T13:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336488,
+      "name": "airqo_g5469",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166125,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166126,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.598416971708631,
+        "longitude": 3.4841303919154982
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.4841303919154982,
+        6.598416971708631,
+        3.4841303919154982,
+        6.598416971708631
+      ],
+      "distance": 14201.15430602,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336490,
+      "name": "airqo_g5488",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166137,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166138,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.484217995661654,
+        "longitude": 3.386469523416038
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.386469523416038,
+        6.484217995661654,
+        3.386469523416038,
+        6.484217995661654
+      ],
+      "distance": 4515.82901697,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T09:00:00Z",
+        "local": "2026-10-01T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336491,
+      "name": "airqo_g5503",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166129,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166130,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.622449136043676,
+        "longitude": 3.46607898521052
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.46607898521052,
+        6.622449136043676,
+        3.46607898521052,
+        6.622449136043676
+      ],
+      "distance": 14487.59818382,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336493,
+      "name": "airqo_g5474",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166135,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166136,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.509141648070925,
+        "longitude": 3.3656164176512293
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3656164176512293,
+        6.509141648070925,
+        3.3656164176512293,
+        6.509141648070925
+      ],
+      "distance": 2259.32703923,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336494,
+      "name": "airqo_g5379",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166127,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166128,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.626624042163874,
+        "longitude": 3.4890706464793126
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.4890706464793126,
+        6.626624042163874,
+        3.4890706464793126,
+        6.626624042163874
+      ],
+      "distance": 16596.43887797,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336496,
+      "name": "airqo_g5482",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166139,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166140,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.62186883266843,
+        "longitude": 3.486900156612021
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.486900156612021,
+        6.62186883266843,
+        3.486900156612021,
+        6.62186883266843
+      ],
+      "distance": 16064.06282982,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336497,
+      "name": "airqo_g5465",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166131,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166132,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.598200385122481,
+        "longitude": 3.3806543828465427
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3806543828465427,
+        6.598200385122481,
+        3.3806543828465427,
+        6.598200385122481
+      ],
+      "distance": 8163.07903405,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T20:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6336500,
+      "name": "airqo_g5483",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166133,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166134,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.532068184048384,
+        "longitude": 3.3576540124082497
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3576540124082497,
+        6.532068184048384,
+        3.3576540124082497,
+        6.532068184048384
+      ],
+      "distance": 2529.42784281,
+      "datetimeFirst": {
+        "utc": "2026-05-05T18:00:00Z",
+        "local": "2026-05-05T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6337693,
+      "name": "airqo_g5505",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16174521,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16174522,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.592614121626786,
+        "longitude": 3.334085937052363
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.334085937052363,
+        6.592614121626786,
+        3.334085937052363,
+        6.592614121626786
+      ],
+      "distance": 9044.44667917,
+      "datetimeFirst": {
+        "utc": "2026-05-06T15:00:00Z",
+        "local": "2026-05-06T16:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T10:00:00Z",
+        "local": "2026-10-01T11:00:00+01:00"
+      }
+    },
+    {
+      "id": 6366721,
+      "name": "airqo_g5480",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16350108,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16350109,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.519696009652661,
+        "longitude": 3.3620616455772376
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3620616455772376,
+        6.519696009652661,
+        3.3620616455772376,
+        6.519696009652661
+      ],
+      "distance": 1965.65329478,
+      "datetimeFirst": {
+        "utc": "2026-05-20T13:00:00Z",
+        "local": "2026-05-20T14:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T02:00:00Z",
+        "local": "2026-10-01T03:00:00+01:00"
+      }
+    },
+    {
+      "id": 6385967,
+      "name": "Ojota Senior Secondary School, Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 34150,
+        "name": "Air Quality for Collective Public Health Action Project"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16492236,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 16492237,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 16492238,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 16492239,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 16492240,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.583717,
+        "longitude": 3.376489
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Air Quality for Collective Public Health Action Project",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.376489,
+        6.583717,
+        3.376489,
+        6.583717
+      ],
+      "distance": 6566.64100315,
+      "datetimeFirst": {
+        "utc": "2026-06-03T02:00:00Z",
+        "local": "2026-06-03T03:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6397520,
+      "name": "University of Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 479,
+        "name": "Aurassure"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16577536,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16577537,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 16577538,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 16577539,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.518702,
+        "longitude": 3.393998
+      },
+      "licenses": null,
+      "bounds": [
+        3.393998,
+        6.518702,
+        3.393998,
+        6.518702
+      ],
+      "distance": 1753.82769608,
+      "datetimeFirst": {
+        "utc": "2026-04-30T01:00:00Z",
+        "local": "2026-04-30T02:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T09:00:00Z",
+        "local": "2026-10-01T10:00:00+01:00"
+      }
+    },
+    {
+      "id": 6412134,
+      "name": "Ikoyi-Obalende LCDA, Ikoyi Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 34150,
+        "name": "Air Quality for Collective Public Health Action Project"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16685600,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 16685601,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 16685602,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 16685603,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 16685604,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.450807,
+        "longitude": 3.410682
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Air Quality for Collective Public Health Action Project",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.410682,
+        6.450807,
+        3.410682,
+        6.450807
+      ],
+      "distance": 8852.22849405,
+      "datetimeFirst": {
+        "utc": "2026-06-21T05:00:00Z",
+        "local": "2026-06-21T06:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6446047,
+      "name": "Oyingbo Redline Train Station",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16934674,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.483101537,
+        "longitude": 3.381469958
+      },
+      "licenses": null,
+      "bounds": [
+        3.381469958,
+        6.483101537,
+        3.381469958,
+        6.483101537
+      ],
+      "distance": 4574.03214824,
+      "datetimeFirst": {
+        "utc": "2026-07-15T18:59:10Z",
+        "local": "2026-07-15T19:59:10+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T08:30:54Z",
+        "local": "2026-10-01T09:30:54+01:00"
+      }
+    },
+    {
+      "id": 6446048,
+      "name": "Omole Estate",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16934673,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.634556774,
+        "longitude": 3.360754251
+      },
+      "licenses": null,
+      "bounds": [
+        3.360754251,
+        6.634556774,
+        3.360754251,
+        6.634556774
+      ],
+      "distance": 12351.72798461,
+      "datetimeFirst": {
+        "utc": "2026-07-15T18:59:23Z",
+        "local": "2026-07-15T19:59:23+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-30T23:00:01Z",
+        "local": "2026-10-01T00:00:01+01:00"
+      }
+    },
+    {
+      "id": 6446049,
+      "name": "Iganmu Blueline Train Station",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16934672,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.477294344,
+        "longitude": 3.342855871
+      },
+      "licenses": null,
+      "bounds": [
+        3.342855871,
+        6.477294344,
+        3.342855871,
+        6.477294344
+      ],
+      "distance": 6580.07710491,
+      "datetimeFirst": {
+        "utc": "2026-07-15T19:19:30Z",
+        "local": "2026-07-15T20:19:30+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-30T22:59:37Z",
+        "local": "2026-09-30T23:59:37+01:00"
+      }
+    },
+    {
+      "id": 6446050,
+      "name": "Alaba Blueline Train Station",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16934671,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.463859126,
+        "longitude": 3.323720992
+      },
+      "licenses": null,
+      "bounds": [
+        3.323720992,
+        6.463859126,
+        3.323720992,
+        6.463859126
+      ],
+      "distance": 9081.94193159,
+      "datetimeFirst": {
+        "utc": "2026-07-15T19:00:12Z",
+        "local": "2026-07-15T20:00:12+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-30T22:59:46Z",
+        "local": "2026-09-30T23:59:46+01:00"
+      }
+    },
+    {
+      "id": 6464052,
+      "name": "LAMATA Place",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 16826,
+        "name": "LAMATA"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17066589,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17066590,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17066591,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17066592,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17066593,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.5943636,
+        "longitude": 3.3831835
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "LAMATA",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3831835,
+        6.5943636,
+        3.3831835,
+        6.5943636
+      ],
+      "distance": 7749.7208128,
+      "datetimeFirst": {
+        "utc": "2026-07-28T12:00:00Z",
+        "local": "2026-07-28T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6465603,
+      "name": "Mile - 12 Bus Terminal",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17076897,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.605746764,
+        "longitude": 3.399190642
+      },
+      "licenses": null,
+      "bounds": [
+        3.399190642,
+        6.605746764,
+        3.399190642,
+        6.605746764
+      ],
+      "distance": 9263.72545351,
+      "datetimeFirst": {
+        "utc": "2026-07-29T13:11:45Z",
+        "local": "2026-07-29T14:11:45+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:29:13Z",
+        "local": "2026-10-01T14:29:13+01:00"
+      }
+    },
+    {
+      "id": 6465775,
+      "name": "Majidun Bus Depot",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17078467,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.619726353,
+        "longitude": 3.462431096
+      },
+      "licenses": null,
+      "bounds": [
+        3.462431096,
+        6.619726353,
+        3.462431096,
+        6.619726353
+      ],
+      "distance": 13995.07063234,
+      "datetimeFirst": {
+        "utc": "2026-07-29T16:51:35Z",
+        "local": "2026-07-29T17:51:35+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-29T18:37:36Z",
+        "local": "2026-07-29T19:37:36+01:00"
+      }
+    },
+    {
+      "id": 6521348,
+      "name": "588c8135a17c_Lagos Airport Road (MMIA)",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17485881,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17485882,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17485883,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17485884,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17485885,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.5526,
+        "longitude": 3.3325
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3325,
+        6.5526,
+        3.3325,
+        6.5526
+      ],
+      "distance": 6033.50705095,
+      "datetimeFirst": {
+        "utc": "2026-09-03T10:00:00Z",
+        "local": "2026-09-03T11:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6521401,
+      "name": "588c8135a1bc_Lagos Ikeja Bus Terminal ",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17486260,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17486261,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17486262,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17486263,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17486264,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.59868,
+        "longitude": 3.33454
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.33454,
+        6.59868,
+        3.33454,
+        6.59868
+      ],
+      "distance": 9585.09583497,
+      "datetimeFirst": {
+        "utc": "2026-09-03T10:00:00Z",
+        "local": "2026-09-03T11:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6522096,
+      "name": "588c8135a1c8_Lagos- Lawanson Quality Bus Corridor",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17491314,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17491315,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17491316,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17491317,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17491318,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.5113,
+        "longitude": 3.3473
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.3473,
+        6.5113,
+        3.3473,
+        6.5113
+      ],
+      "distance": 3814.13207364,
+      "datetimeFirst": {
+        "utc": "2026-09-03T18:00:00Z",
+        "local": "2026-09-03T19:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6523113,
+      "name": "588c8135a25c_Lagos - Ojuelegba Quality Bus Corridor",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17498722,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17498723,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17498724,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17498725,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17498726,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.50998,
+        "longitude": 3.36332
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.36332,
+        6.50998,
+        3.36332,
+        6.50998
+      ],
+      "distance": 2372.33827638,
+      "datetimeFirst": {
+        "utc": "2026-09-04T08:00:00Z",
+        "local": "2026-09-04T09:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T14:00:00+01:00"
+      }
+    },
+    {
+      "id": 6541902,
+      "name": "Oregun High School, Ikeja Lagos",
+      "locality": null,
+      "timezone": "Africa/Lagos",
+      "country": {
+        "id": 100,
+        "code": "NG",
+        "name": "Nigeria"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17636677,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17636678,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17636679,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17636680,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17636681,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 6.599762,
+        "longitude": 3.367455
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        3.367455,
+        6.599762,
+        3.367455,
+        6.599762
+      ],
+      "distance": 8434.80821072,
+      "datetimeFirst": {
+        "utc": "2026-09-15T12:00:00Z",
+        "local": "2026-09-15T13:00:00+01:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-22T19:00:00Z",
+        "local": "2026-09-22T20:00:00+01:00"
+      }
+    }
+  ]
+}

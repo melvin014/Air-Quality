@@ -1,0 +1,1970 @@
+{
+  "query": {
+    "coordinates": "-33.8688,151.2093",
+    "radius": 15000,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": 336,
+      "name": "Earlwood",
+      "locality": "Sydney East",
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 153,
+        "name": "Australia - New South Wales"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4878,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 577,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 4883,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 21607,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 4881,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.9177778,
+        "longitude": 151.1347222
+      },
+      "licenses": null,
+      "bounds": [
+        151.1347222,
+        -33.9177778,
+        151.1347222,
+        -33.9177778
+      ],
+      "distance": 8780.79076228,
+      "datetimeFirst": {
+        "utc": "2016-04-09T20:00:00Z",
+        "local": "2016-04-10T06:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-11-22T23:00:00Z",
+        "local": "2022-11-23T10:00:00+11:00"
+      }
+    },
+    {
+      "id": 417,
+      "name": "Rozelle",
+      "locality": "Sydney East",
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 153,
+        "name": "Australia - New South Wales"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 4820,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 4810,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 728,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 4805,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 21610,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 4807,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.8658333,
+        "longitude": 151.1625
+      },
+      "licenses": null,
+      "bounds": [
+        151.1625,
+        -33.8658333,
+        151.1625,
+        -33.8658333
+      ],
+      "distance": 4342.80375675,
+      "datetimeFirst": {
+        "utc": "2016-02-16T01:00:00Z",
+        "local": "2016-02-16T12:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-11-22T23:00:00Z",
+        "local": "2022-11-23T10:00:00+11:00"
+      }
+    },
+    {
+      "id": 912,
+      "name": "Randwick",
+      "locality": "Sydney East",
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 153,
+        "name": "Australia - New South Wales"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 20650,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 5055,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 1674,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 5021,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 20392,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 5032,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.9333333,
+        "longitude": 151.2419444
+      },
+      "licenses": null,
+      "bounds": [
+        151.2419444,
+        -33.9333333,
+        151.2419444,
+        -33.9333333
+      ],
+      "distance": 7768.80930719,
+      "datetimeFirst": {
+        "utc": "2016-04-09T20:00:00Z",
+        "local": "2016-04-10T06:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-11-22T23:00:00Z",
+        "local": "2022-11-23T10:00:00+11:00"
+      }
+    },
+    {
+      "id": 7426,
+      "name": "Macquarie Park",
+      "locality": "Sydney East",
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 153,
+        "name": "Australia - New South Wales"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 28467,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 25234,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 25235,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 21608,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 21609,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 25237,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.765278,
+        "longitude": 151.117806
+      },
+      "licenses": null,
+      "bounds": [
+        151.117806,
+        -33.765278,
+        151.117806,
+        -33.765278
+      ],
+      "distance": 14268.93731898,
+      "datetimeFirst": {
+        "utc": "2017-08-31T00:00:00Z",
+        "local": "2017-08-31T10:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-11-22T23:00:00Z",
+        "local": "2022-11-23T10:00:00+11:00"
+      }
+    },
+    {
+      "id": 7428,
+      "name": "Cook And Phillip",
+      "locality": "Sydney East",
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 153,
+        "name": "Australia - New South Wales"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 5079439,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 5079438,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 5079441,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 5079436,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 5079437,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 5079440,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.8725,
+        "longitude": 151.213333
+      },
+      "licenses": null,
+      "bounds": [
+        151.213333,
+        -33.8725,
+        151.213333,
+        -33.8725
+      ],
+      "distance": 554.68346308,
+      "datetimeFirst": {
+        "utc": "2022-10-04T18:00:00Z",
+        "local": "2022-10-05T05:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-10-04T18:00:00Z",
+        "local": "2022-10-05T05:00:00+11:00"
+      }
+    },
+    {
+      "id": 1544061,
+      "name": "Anzac Memorial",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7977949,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7977928,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 6910832,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 7977929,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 6910833,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7977951,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.8757279,
+        "longitude": 151.1388636
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.1388636,
+        -33.8757279,
+        151.1388636,
+        -33.8757279
+      ],
+      "distance": 6562.12437564,
+      "datetimeFirst": {
+        "utc": "2023-09-08T02:00:00Z",
+        "local": "2023-09-08T12:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T23:00:00+10:00"
+      }
+    },
+    {
+      "id": 1707188,
+      "name": "North Ryde",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        },
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7971184,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7978439,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7978398,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7970844,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7200405,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 7972830,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 7200401,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7972812,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.787549773025184,
+        "longitude": 151.1158767473518
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.1158767473518,
+        -33.787549773025184,
+        151.1158767473518,
+        -33.787549773025184
+      ],
+      "distance": 12490.47006848,
+      "datetimeFirst": {
+        "utc": "2023-10-15T00:00:00Z",
+        "local": "2023-10-15T11:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T23:00:00+10:00"
+      }
+    },
+    {
+      "id": 1738164,
+      "name": null,
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7253559,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 7253560,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.903458393373704,
+        "longitude": 151.2102734979547
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.2102734979547,
+        -33.903458393373704,
+        151.2102734979547,
+        -33.903458393373704
+      ],
+      "distance": 3845.37513629,
+      "datetimeFirst": {
+        "utc": "2023-10-22T01:00:00Z",
+        "local": "2023-10-22T12:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-10-22T14:00:00Z",
+        "local": "2023-10-23T01:00:00+11:00"
+      }
+    },
+    {
+      "id": 2392564,
+      "name": "Sydney, Australia",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        },
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7970939,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7979520,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7979518,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7971269,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7822446,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 7971948,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 7822449,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7971973,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.88773681412261,
+        "longitude": 151.21502561237583
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.21502561237583,
+        -33.88773681412261,
+        151.21502561237583,
+        -33.88773681412261
+      ],
+      "distance": 2166.23888599,
+      "datetimeFirst": {
+        "utc": "2024-02-07T05:00:00Z",
+        "local": "2024-02-07T16:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-15T20:00:00Z",
+        "local": "2026-09-16T06:00:00+10:00"
+      }
+    },
+    {
+      "id": 2455393,
+      "name": "Rozelle",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        },
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 7979408,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7970846,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7971058,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7979401,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 7899771,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 7971710,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 7899756,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7971697,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.864343,
+        "longitude": 151.163931
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.163931,
+        -33.864343,
+        151.163931,
+        -33.864343
+      ],
+      "distance": 4226.95679862,
+      "datetimeFirst": {
+        "utc": "2024-02-21T00:00:00Z",
+        "local": "2024-02-21T11:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-17T22:00:00Z",
+        "local": "2026-09-18T08:00:00+10:00"
+      }
+    },
+    {
+      "id": 2455394,
+      "name": "Rozelle",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        },
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 12940276,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 7899753,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 12940277,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 7899758,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 12940278,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.864343,
+        "longitude": 151.163931
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.163931,
+        -33.864343,
+        151.163931,
+        -33.864343
+      ],
+      "distance": 4226.95679862,
+      "datetimeFirst": {
+        "utc": "2024-02-21T00:00:00Z",
+        "local": "2024-02-21T11:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-17T22:00:00Z",
+        "local": "2026-09-18T08:00:00+10:00"
+      }
+    },
+    {
+      "id": 2904356,
+      "name": "Luna Lewisham",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 9651353,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 9651379,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 9651362,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 9651366,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 9651357,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 9651352,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.893164,
+        "longitude": 151.144515
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.144515,
+        -33.893164,
+        151.144515,
+        -33.893164
+      ],
+      "distance": 6574.58183596,
+      "datetimeFirst": {
+        "utc": "2024-06-19T06:00:00Z",
+        "local": "2024-06-19T16:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T23:00:00+10:00"
+      }
+    },
+    {
+      "id": 3289531,
+      "name": "Sydney",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 11509,
+        "name": "Unknown Person"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 11455543,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 11455568,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 11455547,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 11455557,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 11455548,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 11455562,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.8565606342447,
+        "longitude": 151.21522733191853
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "Unknown Person",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.21522733191853,
+        -33.8565606342447,
+        151.21522733191853,
+        -33.8565606342447
+      ],
+      "distance": 1464.19720389,
+      "datetimeFirst": {
+        "utc": "2024-11-27T23:00:00Z",
+        "local": "2024-11-28T10:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-12-02T21:00:00Z",
+        "local": "2024-12-03T08:00:00+11:00"
+      }
+    },
+    {
+      "id": 6123216,
+      "name": "North Sydney",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14581379,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14581380,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14581381,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14581382,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14581383,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.840443,
+        "longitude": 151.204472
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.204472,
+        -33.840443,
+        151.204472,
+        -33.840443
+      ],
+      "distance": 3176.9262875,
+      "datetimeFirst": {
+        "utc": "2025-11-08T05:00:00Z",
+        "local": "2025-11-08T16:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-01-12T10:00:00Z",
+        "local": "2026-01-12T21:00:00+11:00"
+      }
+    },
+    {
+      "id": 6209161,
+      "name": "Albert Parade",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 15218805,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 15218806,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 15218807,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 15218808,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 15218809,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.882393915379815,
+        "longitude": 151.122930443287
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.122930443287,
+        -33.882393915379815,
+        151.122930443287,
+        -33.882393915379815
+      ],
+      "distance": 8131.86292877,
+      "datetimeFirst": {
+        "utc": "2026-01-21T02:00:00Z",
+        "local": "2026-01-21T13:00:00+11:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T23:00:00+10:00"
+      }
+    },
+    {
+      "id": 6521091,
+      "name": "Randwick",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17483998,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17483999,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17484000,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17484001,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17484002,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.9136,
+        "longitude": 151.2424
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.2424,
+        -33.9136,
+        151.2424,
+        -33.9136
+      ],
+      "distance": 5836.78804805,
+      "datetimeFirst": {
+        "utc": "2026-09-03T06:00:00Z",
+        "local": "2026-09-03T16:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-10-01T13:00:00Z",
+        "local": "2026-10-01T23:00:00+10:00"
+      }
+    },
+    {
+      "id": 6527484,
+      "name": "Randwick",
+      "locality": null,
+      "timezone": "Australia/Sydney",
+      "country": {
+        "id": 177,
+        "code": "AU",
+        "name": "Australia"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17530873,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17530874,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17530875,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17530876,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17530877,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -33.913389,
+        "longitude": 151.242056
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        151.242056,
+        -33.913389,
+        151.242056,
+        -33.913389
+      ],
+      "distance": 5800.19093844,
+      "datetimeFirst": {
+        "utc": "2026-09-07T02:00:00Z",
+        "local": "2026-09-07T12:00:00+10:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-09-10T03:00:00Z",
+        "local": "2026-09-10T13:00:00+10:00"
+      }
+    }
+  ]
+}
