@@ -331,8 +331,8 @@
         "local": "2017-06-07T15:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -441,8 +441,8 @@
         "local": "2016-11-14T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -1853,8 +1853,8 @@
         "local": "2022-11-15T06:59:10-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:44Z",
-        "local": "2026-10-01T06:06:44-07:00"
+        "utc": "2026-10-04T13:02:41Z",
+        "local": "2026-10-04T06:02:41-07:00"
       }
     },
     {
@@ -1963,8 +1963,8 @@
         "local": "2022-02-17T17:56:47-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:02Z",
-        "local": "2026-10-01T06:06:02-07:00"
+        "utc": "2026-10-04T13:06:09Z",
+        "local": "2026-10-04T06:06:09-07:00"
       }
     },
     {
@@ -2025,16 +2025,6 @@
           }
         },
         {
-          "id": 5244408,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244409,
           "name": "temperature f",
           "parameter": {
@@ -2042,6 +2032,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244408,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -2073,8 +2073,8 @@
         "local": "2022-02-17T17:56:59-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:48Z",
-        "local": "2026-10-01T06:06:48-07:00"
+        "utc": "2026-10-04T13:03:27Z",
+        "local": "2026-10-04T06:03:27-07:00"
       }
     },
     {
@@ -2135,16 +2135,6 @@
           }
         },
         {
-          "id": 5244400,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244401,
           "name": "temperature f",
           "parameter": {
@@ -2152,6 +2142,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244400,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -2183,8 +2183,8 @@
         "local": "2022-02-17T17:54:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:47Z",
-        "local": "2026-10-01T06:03:47-07:00"
+        "utc": "2026-10-04T13:02:02Z",
+        "local": "2026-10-04T06:02:02-07:00"
       }
     },
     {
@@ -2245,16 +2245,6 @@
           }
         },
         {
-          "id": 5244561,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244560,
           "name": "temperature c",
           "parameter": {
@@ -2262,6 +2252,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244561,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -2293,8 +2293,8 @@
         "local": "2022-02-17T17:54:11-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:46Z",
-        "local": "2026-10-01T06:05:46-07:00"
+        "utc": "2026-10-04T13:02:37Z",
+        "local": "2026-10-04T06:02:37-07:00"
       }
     },
     {
@@ -2403,8 +2403,8 @@
         "local": "2022-02-17T17:56:30-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:54Z",
-        "local": "2026-10-01T06:06:54-07:00"
+        "utc": "2026-10-04T13:07:05Z",
+        "local": "2026-10-04T06:07:05-07:00"
       }
     },
     {
@@ -2523,8 +2523,8 @@
         "local": "2022-02-17T17:53:17-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:56Z",
-        "local": "2026-10-01T06:04:56-07:00"
+        "utc": "2026-10-04T13:04:20Z",
+        "local": "2026-10-04T06:04:20-07:00"
       }
     },
     {
@@ -2643,8 +2643,8 @@
         "local": "2022-02-17T17:55:19-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:48Z",
-        "local": "2026-10-01T06:03:48-07:00"
+        "utc": "2026-10-04T13:02:32Z",
+        "local": "2026-10-04T06:02:32-07:00"
       }
     },
     {
@@ -2705,16 +2705,6 @@
           }
         },
         {
-          "id": 5244233,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244232,
           "name": "temperature c",
           "parameter": {
@@ -2722,6 +2712,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244233,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -2825,16 +2825,6 @@
           }
         },
         {
-          "id": 5244448,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244449,
           "name": "temperature f",
           "parameter": {
@@ -2842,6 +2832,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244448,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -2873,8 +2873,8 @@
         "local": "2022-03-24T17:24:57-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:34Z",
-        "local": "2026-10-01T06:06:34-07:00"
+        "utc": "2026-10-04T13:06:31Z",
+        "local": "2026-10-04T06:06:31-07:00"
       }
     },
     {
@@ -2993,8 +2993,8 @@
         "local": "2022-02-17T17:54:31-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:32Z",
-        "local": "2026-10-01T06:02:32-07:00"
+        "utc": "2026-10-04T13:03:20Z",
+        "local": "2026-10-04T06:03:20-07:00"
       }
     },
     {
@@ -3065,16 +3065,6 @@
           }
         },
         {
-          "id": 5244483,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244482,
           "name": "temperature c",
           "parameter": {
@@ -3082,6 +3072,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244483,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -3113,8 +3113,8 @@
         "local": "2022-02-17T17:53:30-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:03Z",
-        "local": "2026-10-01T06:02:03-07:00"
+        "utc": "2026-10-04T13:04:49Z",
+        "local": "2026-10-04T06:04:49-07:00"
       }
     },
     {
@@ -3223,8 +3223,8 @@
         "local": "2022-02-17T17:54:40-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:22Z",
-        "local": "2026-10-01T06:06:22-07:00"
+        "utc": "2026-10-04T13:01:32Z",
+        "local": "2026-10-04T06:01:32-07:00"
       }
     },
     {
@@ -3285,16 +3285,6 @@
           }
         },
         {
-          "id": 5244222,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244223,
           "name": "temperature f",
           "parameter": {
@@ -3302,6 +3292,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244222,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -3333,8 +3333,8 @@
         "local": "2022-02-17T17:53:56-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:38Z",
-        "local": "2026-10-01T06:02:38-07:00"
+        "utc": "2026-10-04T13:02:46Z",
+        "local": "2026-10-04T06:02:46-07:00"
       }
     },
     {
@@ -3505,16 +3505,6 @@
           }
         },
         {
-          "id": 5244395,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244394,
           "name": "temperature c",
           "parameter": {
@@ -3522,6 +3512,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244395,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -3553,8 +3553,8 @@
         "local": "2022-02-17T17:52:37-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:29Z",
-        "local": "2026-10-01T06:03:29-07:00"
+        "utc": "2026-10-04T13:02:47Z",
+        "local": "2026-10-04T06:02:47-07:00"
       }
     },
     {
@@ -3625,16 +3625,6 @@
           }
         },
         {
-          "id": 5244346,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244347,
           "name": "temperature f",
           "parameter": {
@@ -3642,6 +3632,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244346,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -3673,8 +3673,8 @@
         "local": "2022-02-17T17:56:53-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:17Z",
-        "local": "2026-10-01T06:06:17-07:00"
+        "utc": "2026-10-04T13:01:53Z",
+        "local": "2026-10-04T06:01:53-07:00"
       }
     },
     {
@@ -3735,16 +3735,6 @@
           }
         },
         {
-          "id": 5244596,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244597,
           "name": "temperature f",
           "parameter": {
@@ -3752,6 +3742,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244596,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -3783,8 +3783,8 @@
         "local": "2022-02-17T17:53:15-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:16Z",
-        "local": "2026-10-01T06:06:16-07:00"
+        "utc": "2026-10-04T13:06:56Z",
+        "local": "2026-10-04T06:06:56-07:00"
       }
     },
     {
@@ -3855,16 +3855,6 @@
           }
         },
         {
-          "id": 5244458,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244459,
           "name": "temperature f",
           "parameter": {
@@ -3872,6 +3862,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244458,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -3903,8 +3903,8 @@
         "local": "2022-02-17T17:56:30-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:28Z",
-        "local": "2026-10-01T06:05:28-07:00"
+        "utc": "2026-10-04T13:05:01Z",
+        "local": "2026-10-04T06:05:01-07:00"
       }
     },
     {
@@ -4133,8 +4133,8 @@
         "local": "2022-02-17T17:57:24-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:40Z",
-        "local": "2026-10-01T06:03:40-07:00"
+        "utc": "2026-10-04T13:02:42Z",
+        "local": "2026-10-04T06:02:42-07:00"
       }
     },
     {
@@ -4195,16 +4195,6 @@
           }
         },
         {
-          "id": 5244540,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244541,
           "name": "temperature f",
           "parameter": {
@@ -4212,6 +4202,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244540,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -4243,8 +4243,8 @@
         "local": "2022-02-17T17:55:08-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:33Z",
-        "local": "2026-10-01T06:02:33-07:00"
+        "utc": "2026-10-04T13:06:27Z",
+        "local": "2026-10-04T06:06:27-07:00"
       }
     },
     {
@@ -4373,8 +4373,8 @@
         "local": "2022-03-03T12:53:17-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:23Z",
-        "local": "2026-10-01T06:02:23-07:00"
+        "utc": "2026-10-04T13:05:54Z",
+        "local": "2026-10-04T06:05:54-07:00"
       }
     },
     {
@@ -4493,8 +4493,8 @@
         "local": "2022-02-17T17:55:04-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:41Z",
-        "local": "2026-10-01T06:02:41-07:00"
+        "utc": "2026-10-04T13:02:50Z",
+        "local": "2026-10-04T06:02:50-07:00"
       }
     },
     {
@@ -4555,16 +4555,6 @@
           }
         },
         {
-          "id": 5244349,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244348,
           "name": "temperature c",
           "parameter": {
@@ -4572,6 +4562,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244349,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -4603,8 +4603,8 @@
         "local": "2022-02-17T17:54:40-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:30Z",
-        "local": "2026-10-01T06:05:30-07:00"
+        "utc": "2026-10-04T13:06:50Z",
+        "local": "2026-10-04T06:06:50-07:00"
       }
     },
     {
@@ -4665,16 +4665,6 @@
           }
         },
         {
-          "id": 5244316,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244317,
           "name": "temperature f",
           "parameter": {
@@ -4682,6 +4672,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244316,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -4713,8 +4713,8 @@
         "local": "2022-02-17T17:55:06-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:05Z",
-        "local": "2026-10-01T06:05:05-07:00"
+        "utc": "2026-10-04T13:05:55Z",
+        "local": "2026-10-04T06:05:55-07:00"
       }
     },
     {
@@ -4943,8 +4943,8 @@
         "local": "2022-02-17T17:55:07-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:12Z",
-        "local": "2026-10-01T06:06:12-07:00"
+        "utc": "2026-10-04T13:06:02Z",
+        "local": "2026-10-04T06:06:02-07:00"
       }
     },
     {
@@ -5015,16 +5015,6 @@
           }
         },
         {
-          "id": 5244437,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244436,
           "name": "temperature c",
           "parameter": {
@@ -5032,6 +5022,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244437,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -5063,8 +5063,8 @@
         "local": "2022-02-17T17:56:52-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:04Z",
-        "local": "2026-10-01T06:05:04-07:00"
+        "utc": "2026-10-04T13:04:28Z",
+        "local": "2026-10-04T06:04:28-07:00"
       }
     },
     {
@@ -5173,8 +5173,8 @@
         "local": "2022-02-17T17:52:52-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:57Z",
-        "local": "2026-10-01T06:06:57-07:00"
+        "utc": "2026-10-04T13:05:44Z",
+        "local": "2026-10-04T06:05:44-07:00"
       }
     },
     {
@@ -5245,16 +5245,6 @@
           }
         },
         {
-          "id": 5244518,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244519,
           "name": "temperature f",
           "parameter": {
@@ -5262,6 +5252,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244518,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -5293,8 +5293,8 @@
         "local": "2022-02-17T17:53:06-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T04:05:17Z",
-        "local": "2026-09-30T21:05:17-07:00"
+        "utc": "2026-10-04T13:05:50Z",
+        "local": "2026-10-04T06:05:50-07:00"
       }
     },
     {
@@ -5403,8 +5403,8 @@
         "local": "2022-02-17T17:54:31-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:41Z",
-        "local": "2026-10-01T06:03:41-07:00"
+        "utc": "2026-10-04T13:02:46Z",
+        "local": "2026-10-04T06:02:46-07:00"
       }
     },
     {
@@ -5475,16 +5475,6 @@
           }
         },
         {
-          "id": 5244562,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244563,
           "name": "temperature f",
           "parameter": {
@@ -5492,6 +5482,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244562,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -5523,8 +5523,8 @@
         "local": "2022-02-17T17:52:42-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:54Z",
-        "local": "2026-10-01T06:06:54-07:00"
+        "utc": "2026-10-04T13:04:51Z",
+        "local": "2026-10-04T06:04:51-07:00"
       }
     },
     {
@@ -5585,16 +5585,6 @@
           }
         },
         {
-          "id": 5244365,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244364,
           "name": "temperature c",
           "parameter": {
@@ -5602,6 +5592,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244365,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -5633,8 +5633,8 @@
         "local": "2022-02-17T17:56:33-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:21Z",
-        "local": "2026-10-01T06:03:21-07:00"
+        "utc": "2026-10-04T13:05:40Z",
+        "local": "2026-10-04T06:05:40-07:00"
       }
     },
     {
@@ -5743,8 +5743,8 @@
         "local": "2022-02-17T17:56:57-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:42Z",
-        "local": "2026-10-01T06:03:42-07:00"
+        "utc": "2026-10-04T13:06:31Z",
+        "local": "2026-10-04T06:06:31-07:00"
       }
     },
     {
@@ -5863,8 +5863,8 @@
         "local": "2022-06-10T11:30:46-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:20Z",
-        "local": "2026-10-01T06:02:20-07:00"
+        "utc": "2026-10-04T13:04:05Z",
+        "local": "2026-10-04T06:04:05-07:00"
       }
     },
     {
@@ -5983,8 +5983,8 @@
         "local": "2022-03-24T17:24:41-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:28Z",
-        "local": "2026-10-01T06:02:28-07:00"
+        "utc": "2026-10-04T13:07:00Z",
+        "local": "2026-10-04T06:07:00-07:00"
       }
     },
     {
@@ -6055,16 +6055,6 @@
           }
         },
         {
-          "id": 5244363,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244362,
           "name": "temperature c",
           "parameter": {
@@ -6072,6 +6062,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244363,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -6103,8 +6103,8 @@
         "local": "2022-02-17T17:54:14-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:22Z",
-        "local": "2026-10-01T06:02:22-07:00"
+        "utc": "2026-10-04T13:04:49Z",
+        "local": "2026-10-04T06:04:49-07:00"
       }
     },
     {
@@ -6165,16 +6165,6 @@
           }
         },
         {
-          "id": 5244412,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244413,
           "name": "temperature f",
           "parameter": {
@@ -6182,6 +6172,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244412,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -6323,8 +6323,8 @@
         "local": "2022-02-17T17:56:44-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:38Z",
-        "local": "2026-10-01T06:01:38-07:00"
+        "utc": "2026-10-04T13:02:39Z",
+        "local": "2026-10-04T06:02:39-07:00"
       }
     },
     {
@@ -6385,16 +6385,6 @@
           }
         },
         {
-          "id": 5244534,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244535,
           "name": "temperature f",
           "parameter": {
@@ -6402,6 +6392,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244534,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -6543,8 +6543,8 @@
         "local": "2022-02-17T17:52:50-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-09-18T21:12:16Z",
-        "local": "2026-09-18T14:12:16-07:00"
+        "utc": "2026-10-04T13:04:38Z",
+        "local": "2026-10-04T06:04:38-07:00"
       }
     },
     {
@@ -6663,8 +6663,8 @@
         "local": "2022-02-17T17:56:46-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:38Z",
-        "local": "2026-10-01T06:01:38-07:00"
+        "utc": "2026-10-04T13:04:19Z",
+        "local": "2026-10-04T06:04:19-07:00"
       }
     },
     {
@@ -6735,16 +6735,6 @@
           }
         },
         {
-          "id": 5244280,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244281,
           "name": "temperature f",
           "parameter": {
@@ -6752,6 +6742,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244280,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -6783,8 +6783,8 @@
         "local": "2022-02-17T17:56:20-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:51Z",
-        "local": "2026-10-01T06:04:51-07:00"
+        "utc": "2026-10-04T13:02:47Z",
+        "local": "2026-10-04T06:02:47-07:00"
       }
     },
     {
@@ -6893,8 +6893,8 @@
         "local": "2022-02-17T17:52:27-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:42Z",
-        "local": "2026-10-01T06:04:42-07:00"
+        "utc": "2026-10-04T13:01:47Z",
+        "local": "2026-10-04T06:01:47-07:00"
       }
     },
     {
@@ -6965,16 +6965,6 @@
           }
         },
         {
-          "id": 5244311,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244310,
           "name": "temperature c",
           "parameter": {
@@ -6982,6 +6972,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244311,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -7013,8 +7013,8 @@
         "local": "2022-02-17T17:56:13-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:30Z",
-        "local": "2026-10-01T06:02:30-07:00"
+        "utc": "2026-10-04T13:06:51Z",
+        "local": "2026-10-04T06:06:51-07:00"
       }
     },
     {
@@ -7085,16 +7085,6 @@
           }
         },
         {
-          "id": 5244285,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244284,
           "name": "temperature c",
           "parameter": {
@@ -7102,6 +7092,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244285,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -7133,8 +7133,8 @@
         "local": "2022-02-17T17:55:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:56Z",
-        "local": "2026-10-01T06:02:56-07:00"
+        "utc": "2026-10-04T13:03:25Z",
+        "local": "2026-10-04T06:03:25-07:00"
       }
     },
     {
@@ -7253,8 +7253,8 @@
         "local": "2022-03-03T07:24:32-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:23Z",
-        "local": "2026-10-01T06:05:23-07:00"
+        "utc": "2026-10-04T13:06:05Z",
+        "local": "2026-10-04T06:06:05-07:00"
       }
     },
     {
@@ -7315,16 +7315,6 @@
           }
         },
         {
-          "id": 5244265,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244264,
           "name": "temperature c",
           "parameter": {
@@ -7332,6 +7322,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244265,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -7363,8 +7363,8 @@
         "local": "2022-02-17T17:55:44-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:36Z",
-        "local": "2026-10-01T06:02:36-07:00"
+        "utc": "2026-10-04T13:03:56Z",
+        "local": "2026-10-04T06:03:56-07:00"
       }
     },
     {
@@ -7473,8 +7473,8 @@
         "local": "2022-02-17T17:53:03-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:59Z",
-        "local": "2026-10-01T06:01:59-07:00"
+        "utc": "2026-10-04T13:05:10Z",
+        "local": "2026-10-04T06:05:10-07:00"
       }
     },
     {
@@ -7535,16 +7535,6 @@
           }
         },
         {
-          "id": 5244573,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244572,
           "name": "temperature c",
           "parameter": {
@@ -7552,6 +7542,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244573,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -7583,8 +7583,8 @@
         "local": "2022-02-17T17:56:52-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:04Z",
-        "local": "2026-10-01T06:03:04-07:00"
+        "utc": "2026-10-04T13:04:54Z",
+        "local": "2026-10-04T06:04:54-07:00"
       }
     },
     {
@@ -7655,16 +7655,6 @@
           }
         },
         {
-          "id": 5244247,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244246,
           "name": "temperature c",
           "parameter": {
@@ -7672,6 +7662,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244247,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -7813,8 +7813,8 @@
         "local": "2022-02-17T17:54:43-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:22Z",
-        "local": "2026-10-01T06:04:22-07:00"
+        "utc": "2026-10-04T12:53:10Z",
+        "local": "2026-10-04T05:53:10-07:00"
       }
     },
     {
@@ -7923,8 +7923,8 @@
         "local": "2022-02-17T17:56:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:07:04Z",
-        "local": "2026-10-01T06:07:04-07:00"
+        "utc": "2026-10-04T13:05:00Z",
+        "local": "2026-10-04T06:05:00-07:00"
       }
     },
     {
@@ -7995,16 +7995,6 @@
           }
         },
         {
-          "id": 5244601,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244600,
           "name": "temperature c",
           "parameter": {
@@ -8012,6 +8002,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244601,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -8043,8 +8043,8 @@
         "local": "2022-02-17T17:57:38-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:20Z",
-        "local": "2026-10-01T06:03:20-07:00"
+        "utc": "2026-10-04T13:06:35Z",
+        "local": "2026-10-04T06:06:35-07:00"
       }
     },
     {
@@ -8105,16 +8105,6 @@
           }
         },
         {
-          "id": 5244318,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244319,
           "name": "temperature f",
           "parameter": {
@@ -8122,6 +8112,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244318,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -8153,8 +8153,8 @@
         "local": "2022-02-17T17:56:03-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:59Z",
-        "local": "2026-10-01T06:01:59-07:00"
+        "utc": "2026-10-04T13:03:16Z",
+        "local": "2026-10-04T06:03:16-07:00"
       }
     },
     {
@@ -8273,8 +8273,8 @@
         "local": "2022-02-17T17:55:58-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:36Z",
-        "local": "2026-10-01T06:06:36-07:00"
+        "utc": "2026-10-04T13:07:02Z",
+        "local": "2026-10-04T06:07:02-07:00"
       }
     },
     {
@@ -8345,16 +8345,6 @@
           }
         },
         {
-          "id": 5244270,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244271,
           "name": "temperature f",
           "parameter": {
@@ -8362,6 +8352,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244270,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -8393,8 +8393,8 @@
         "local": "2022-02-17T17:55:23-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:26Z",
-        "local": "2026-10-01T06:04:26-07:00"
+        "utc": "2026-10-04T13:06:32Z",
+        "local": "2026-10-04T06:06:32-07:00"
       }
     },
     {
@@ -8465,16 +8465,6 @@
           }
         },
         {
-          "id": 5244502,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244503,
           "name": "temperature f",
           "parameter": {
@@ -8482,6 +8472,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244502,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -8513,8 +8513,8 @@
         "local": "2022-02-17T17:53:10-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:11Z",
-        "local": "2026-10-01T06:06:11-07:00"
+        "utc": "2026-10-04T13:05:17Z",
+        "local": "2026-10-04T06:05:17-07:00"
       }
     },
     {
@@ -8623,8 +8623,8 @@
         "local": "2022-02-17T17:57:18-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:32Z",
-        "local": "2026-10-01T06:05:32-07:00"
+        "utc": "2026-10-04T13:04:39Z",
+        "local": "2026-10-04T06:04:39-07:00"
       }
     },
     {
@@ -8733,8 +8733,8 @@
         "local": "2022-02-17T17:52:07-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:18Z",
-        "local": "2026-10-01T06:06:18-07:00"
+        "utc": "2026-10-04T13:06:48Z",
+        "local": "2026-10-04T06:06:48-07:00"
       }
     },
     {
@@ -8815,16 +8815,6 @@
           }
         },
         {
-          "id": 5244291,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 5244290,
           "name": "temperature c",
           "parameter": {
@@ -8832,6 +8822,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 5244291,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -8863,8 +8863,8 @@
         "local": "2022-03-23T11:34:07-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:32Z",
-        "local": "2026-10-01T06:01:32-07:00"
+        "utc": "2026-10-04T13:02:38Z",
+        "local": "2026-10-04T06:02:38-07:00"
       }
     },
     {
@@ -8973,8 +8973,8 @@
         "local": "2022-02-17T17:56:11-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:59Z",
-        "local": "2026-10-01T06:01:59-07:00"
+        "utc": "2026-10-04T13:02:51Z",
+        "local": "2026-10-04T06:02:51-07:00"
       }
     },
     {
@@ -9083,8 +9083,8 @@
         "local": "2022-02-17T17:55:19-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:25Z",
-        "local": "2026-10-01T06:02:25-07:00"
+        "utc": "2026-10-04T13:04:53Z",
+        "local": "2026-10-04T06:04:53-07:00"
       }
     },
     {
@@ -9145,16 +9145,6 @@
           }
         },
         {
-          "id": 5244490,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244491,
           "name": "temperature f",
           "parameter": {
@@ -9162,6 +9152,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244490,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -9193,8 +9193,8 @@
         "local": "2022-02-17T17:56:52-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:23Z",
-        "local": "2026-10-01T06:02:23-07:00"
+        "utc": "2026-10-04T13:02:05Z",
+        "local": "2026-10-04T06:02:05-07:00"
       }
     },
     {
@@ -9323,8 +9323,8 @@
         "local": "2022-02-17T17:54:06-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:30Z",
-        "local": "2026-10-01T06:02:30-07:00"
+        "utc": "2026-10-04T13:03:29Z",
+        "local": "2026-10-04T06:03:29-07:00"
       }
     },
     {
@@ -9395,16 +9395,6 @@
           }
         },
         {
-          "id": 5244460,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244461,
           "name": "temperature f",
           "parameter": {
@@ -9412,6 +9402,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244460,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -9443,8 +9443,8 @@
         "local": "2022-02-17T17:56:22-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:25Z",
-        "local": "2026-10-01T06:03:25-07:00"
+        "utc": "2026-10-04T13:03:27Z",
+        "local": "2026-10-04T06:03:27-07:00"
       }
     },
     {
@@ -9553,8 +9553,8 @@
         "local": "2022-02-17T17:57:33-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:46Z",
-        "local": "2026-10-01T06:02:46-07:00"
+        "utc": "2026-10-04T13:02:25Z",
+        "local": "2026-10-04T06:02:25-07:00"
       }
     },
     {
@@ -9673,8 +9673,8 @@
         "local": "2022-02-17T17:54:45-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:23Z",
-        "local": "2026-10-01T06:04:23-07:00"
+        "utc": "2026-10-04T13:04:44Z",
+        "local": "2026-10-04T06:04:44-07:00"
       }
     },
     {
@@ -9783,8 +9783,8 @@
         "local": "2022-02-17T17:52:35-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:42Z",
-        "local": "2026-10-01T06:04:42-07:00"
+        "utc": "2026-10-04T13:01:41Z",
+        "local": "2026-10-04T06:01:41-07:00"
       }
     },
     {
@@ -9903,8 +9903,8 @@
         "local": "2022-02-17T17:54:26-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:33Z",
-        "local": "2026-10-01T06:05:33-07:00"
+        "utc": "2026-10-04T13:06:21Z",
+        "local": "2026-10-04T06:06:21-07:00"
       }
     },
     {
@@ -10023,8 +10023,8 @@
         "local": "2022-02-17T17:57:13-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:52Z",
-        "local": "2026-10-01T06:03:52-07:00"
+        "utc": "2026-10-04T13:06:37Z",
+        "local": "2026-10-04T06:06:37-07:00"
       }
     },
     {
@@ -10095,16 +10095,6 @@
           }
         },
         {
-          "id": 5244322,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244323,
           "name": "temperature f",
           "parameter": {
@@ -10112,6 +10102,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244322,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -10143,8 +10143,8 @@
         "local": "2022-02-17T17:56:41-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:47Z",
-        "local": "2026-10-01T06:03:47-07:00"
+        "utc": "2026-10-04T13:04:17Z",
+        "local": "2026-10-04T06:04:17-07:00"
       }
     },
     {
@@ -10215,16 +10215,6 @@
           }
         },
         {
-          "id": 5244422,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244423,
           "name": "temperature f",
           "parameter": {
@@ -10232,6 +10222,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244422,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -10263,8 +10263,8 @@
         "local": "2022-02-17T17:56:05-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:01:48Z",
-        "local": "2026-10-01T06:01:48-07:00"
+        "utc": "2026-10-04T13:06:18Z",
+        "local": "2026-10-04T06:06:18-07:00"
       }
     },
     {
@@ -10383,8 +10383,8 @@
         "local": "2022-02-17T17:54:51-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:41Z",
-        "local": "2026-10-01T06:05:41-07:00"
+        "utc": "2026-10-04T13:02:57Z",
+        "local": "2026-10-04T06:02:57-07:00"
       }
     },
     {
@@ -10445,16 +10445,6 @@
           }
         },
         {
-          "id": 5244472,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 5244473,
           "name": "temperature f",
           "parameter": {
@@ -10462,6 +10452,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 5244472,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -10493,8 +10493,8 @@
         "local": "2022-02-17T17:53:34-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:20Z",
-        "local": "2026-10-01T06:03:20-07:00"
+        "utc": "2026-10-04T13:02:24Z",
+        "local": "2026-10-04T06:02:24-07:00"
       }
     },
     {
@@ -10623,8 +10623,8 @@
         "local": "2022-03-03T08:26:13-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:05:37Z",
-        "local": "2026-10-01T06:05:37-07:00"
+        "utc": "2026-10-04T13:05:41Z",
+        "local": "2026-10-04T06:05:41-07:00"
       }
     },
     {
@@ -10733,8 +10733,8 @@
         "local": "2022-02-17T17:52:29-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:51Z",
-        "local": "2026-10-01T06:02:51-07:00"
+        "utc": "2026-10-04T13:01:55Z",
+        "local": "2026-10-04T06:01:55-07:00"
       }
     },
     {
@@ -11687,8 +11687,8 @@
         "local": "2022-11-15T07:02:02-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:18Z",
-        "local": "2026-10-01T06:04:18-07:00"
+        "utc": "2026-10-04T13:05:57Z",
+        "local": "2026-10-04T06:05:57-07:00"
       }
     },
     {
@@ -11749,16 +11749,6 @@
           }
         },
         {
-          "id": 6679798,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 6679797,
           "name": "temperature c",
           "parameter": {
@@ -11766,6 +11756,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 6679798,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -11797,8 +11797,8 @@
         "local": "2023-08-03T15:27:51-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:07:00Z",
-        "local": "2026-10-01T06:07:00-07:00"
+        "utc": "2026-10-04T13:06:58Z",
+        "local": "2026-10-04T06:06:58-07:00"
       }
     },
     {
@@ -11859,16 +11859,6 @@
           }
         },
         {
-          "id": 6895825,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 6895824,
           "name": "temperature c",
           "parameter": {
@@ -11876,6 +11866,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 6895825,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -11907,8 +11907,8 @@
         "local": "2023-09-05T10:59:09-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:02:54Z",
-        "local": "2026-10-01T06:02:54-07:00"
+        "utc": "2026-10-04T13:02:49Z",
+        "local": "2026-10-04T06:02:49-07:00"
       }
     },
     {
@@ -12079,16 +12079,6 @@
           }
         },
         {
-          "id": 6896242,
-          "name": "temperature c",
-          "parameter": {
-            "id": 100,
-            "name": "temperature",
-            "units": "c",
-            "displayName": "Temperature (C)"
-          }
-        },
-        {
           "id": 6896243,
           "name": "temperature f",
           "parameter": {
@@ -12096,6 +12086,16 @@
             "name": "temperature",
             "units": "f",
             "displayName": "Temperature (F)"
+          }
+        },
+        {
+          "id": 6896242,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
           }
         }
       ],
@@ -12127,8 +12127,8 @@
         "local": "2023-09-05T12:01:25-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:30Z",
-        "local": "2026-10-01T06:04:30-07:00"
+        "utc": "2026-10-04T13:06:08Z",
+        "local": "2026-10-04T06:06:08-07:00"
       }
     },
     {
@@ -12189,16 +12189,6 @@
           }
         },
         {
-          "id": 6896247,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 6896246,
           "name": "temperature c",
           "parameter": {
@@ -12206,6 +12196,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 6896247,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -12237,8 +12237,8 @@
         "local": "2023-09-05T11:42:10-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:24Z",
-        "local": "2026-10-01T06:04:24-07:00"
+        "utc": "2026-10-04T13:06:51Z",
+        "local": "2026-10-04T06:06:51-07:00"
       }
     },
     {
@@ -12309,16 +12309,6 @@
           }
         },
         {
-          "id": 7526873,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 7526872,
           "name": "temperature c",
           "parameter": {
@@ -12326,6 +12316,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7526873,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -12357,8 +12357,8 @@
         "local": "2023-12-11T14:52:45-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:03:31Z",
-        "local": "2026-10-01T06:03:31-07:00"
+        "utc": "2026-10-04T13:03:25Z",
+        "local": "2026-10-04T06:03:25-07:00"
       }
     },
     {
@@ -12549,16 +12549,6 @@
           }
         },
         {
-          "id": 7526867,
-          "name": "temperature f",
-          "parameter": {
-            "id": 128,
-            "name": "temperature",
-            "units": "f",
-            "displayName": "Temperature (F)"
-          }
-        },
-        {
           "id": 7526866,
           "name": "temperature c",
           "parameter": {
@@ -12566,6 +12556,16 @@
             "name": "temperature",
             "units": "c",
             "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 7526867,
+          "name": "temperature f",
+          "parameter": {
+            "id": 128,
+            "name": "temperature",
+            "units": "f",
+            "displayName": "Temperature (F)"
           }
         }
       ],
@@ -12957,8 +12957,8 @@
         "local": "2024-06-19T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13027,8 +13027,8 @@
         "local": "2024-07-28T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:04:52Z",
-        "local": "2026-10-01T06:04:52-07:00"
+        "utc": "2026-10-04T13:04:34Z",
+        "local": "2026-10-04T06:04:34-07:00"
       }
     },
     {
@@ -13147,8 +13147,8 @@
         "local": "2024-12-12T16:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13217,8 +13217,8 @@
         "local": "2025-02-03T12:00:59-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:06:14Z",
-        "local": "2026-10-01T06:06:14-07:00"
+        "utc": "2026-10-04T13:05:41Z",
+        "local": "2026-10-04T06:05:41-07:00"
       }
     },
     {
@@ -13327,8 +13327,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13437,8 +13437,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13547,8 +13547,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13657,8 +13657,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13767,8 +13767,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13877,8 +13877,8 @@
         "local": "2025-02-11T10:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -13987,8 +13987,8 @@
         "local": "2025-09-18T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -14097,8 +14097,8 @@
         "local": "2025-09-18T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -14207,8 +14207,8 @@
         "local": "2025-02-17T17:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -14427,8 +14427,8 @@
         "local": "2025-03-08T13:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -14537,8 +14537,8 @@
         "local": "2025-09-18T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -14867,8 +14867,8 @@
         "local": "2025-09-18T17:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -15087,8 +15087,8 @@
         "local": "2025-07-26T15:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -15307,8 +15307,8 @@
         "local": "2025-10-28T21:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -15417,8 +15417,8 @@
         "local": "2025-12-19T12:00:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -15487,8 +15487,8 @@
         "local": "2026-01-13T14:07:05-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T12:50:49Z",
-        "local": "2026-10-01T05:50:49-07:00"
+        "utc": "2026-10-04T13:05:03Z",
+        "local": "2026-10-04T06:05:03-07:00"
       }
     },
     {
@@ -15557,8 +15557,8 @@
         "local": "2026-01-13T14:13:18-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T12:58:37Z",
-        "local": "2026-10-01T05:58:37-07:00"
+        "utc": "2026-10-04T12:56:30Z",
+        "local": "2026-10-04T05:56:30-07:00"
       }
     },
     {
@@ -15627,8 +15627,8 @@
         "local": "2026-01-13T14:13:00-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T12:56:12Z",
-        "local": "2026-10-01T05:56:12-07:00"
+        "utc": "2026-10-04T12:55:19Z",
+        "local": "2026-10-04T05:55:19-07:00"
       }
     },
     {
@@ -15697,8 +15697,8 @@
         "local": "2026-01-13T14:07:38-08:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T12:56:15Z",
-        "local": "2026-10-01T05:56:15-07:00"
+        "utc": "2026-10-04T12:53:37Z",
+        "local": "2026-10-04T05:53:37-07:00"
       }
     },
     {
@@ -15767,8 +15767,8 @@
         "local": "2026-06-19T23:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -15837,8 +15837,8 @@
         "local": "2026-06-22T09:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -16057,8 +16057,8 @@
         "local": "2026-06-24T18:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -16167,8 +16167,8 @@
         "local": "2026-06-25T19:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -16277,8 +16277,8 @@
         "local": "2026-07-09T21:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {
@@ -16387,8 +16387,8 @@
         "local": "2026-07-27T21:00:00-07:00"
       },
       "datetimeLast": {
-        "utc": "2026-10-01T13:00:00Z",
-        "local": "2026-10-01T06:00:00-07:00"
+        "utc": "2026-10-04T13:00:00Z",
+        "local": "2026-10-04T06:00:00-07:00"
       }
     },
     {

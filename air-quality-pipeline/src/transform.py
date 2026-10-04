@@ -27,7 +27,7 @@ Engineering decisions made here, and why:
 from __future__ import annotations
 
 import json
-import logging
+import logging 
 from pathlib import Path
 
 import duckdb
@@ -165,6 +165,7 @@ def load_to_duckdb(locations_df: pd.DataFrame, measurements_df: pd.DataFrame,
 
         # Idempotent load for dim_locations: replace wholesale, it's small.
         con.execute("DELETE FROM dim_locations")
+        locations_df = locations_df.drop_duplicates(subset=["location_id"], keep="last")
         con.register("locations_df", locations_df)
         con.execute("INSERT INTO dim_locations SELECT * FROM locations_df")
 
